@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Document SYSTEM "/BB15A/appl/mnt01/bscs15/PNVE/product/OBILIX/prod/bscs/resource/docgenlib/BillingDocument.dtd">
+<Document Sender="T-Mobile Netherlands B.V." Id="191122BA00028785362" BAId="BA0002878536">
+  <InvoiceInfo>
+    <ConvRate Rate="1.000000000000" ConvType="1" Details="">
+      <Date Type="CONV_REF" Date="20191101" HH="00" MM="00" SS="00"/>
+      <Currency Type="1" CurrCode="EUR" Scale="2"/>
+      <Currency Type="1" CurrCode="EUR" Scale="2"/>
+    </ConvRate>
+    <ConvRate Rate="1.000000000000" ConvType="1" Details="">
+      <Date Type="CONV_REF" Date="20191101" HH="00" MM="00" SS="00"/>
+      <Currency Type="2" CurrCode="EUR" Scale="2"/>
+      <Currency Type="2" CurrCode="EUR" Scale="2"/>
+    </ConvRate>
+    <ConvRate Rate="1.000000000000" ConvType="1" Details="">
+      <Date Type="CONV_REF" Date="20191101" HH="00" MM="00" SS="00"/>
+      <Currency Type="2" CurrCode="EUR" Scale="2"/>
+      <Currency Type="2" CurrCode="EUR" Scale="2"/>
+    </ConvRate>
+    <BPStat New="0" Sum="0" Max="10000000" Exp="0"/>
+    <PromoDetails>
+    </PromoDetails>
+    <AdvTxt>L1|Aanpassing maandkosten als gevolg van inflatie|| 
+L2|T-Mobile past jaarlijks in januari de maandkosten van je abonnement aan als gevolg van inflatie.|| 
+L2|Het inflatiepercentage wordt bepaald door het CBS. Voor 2018 is het vastgesteld op 1,7%.|| 
+L2|Je maandkosten worden per januari 2019 met dit percentage verhoogd.|| 
+L2|Kijk voor meer informatie op t-mobile.nl/inflatiecorrectie.||</AdvTxt>
+    <AdvTxt>M1|||</AdvTxt>
+    <AdvTxt>M2||| 
+M2|||</AdvTxt>
+    <AdvTxt>M3||| 
+M3|||</AdvTxt>
+    <AdvTxt>S1|Ga naar www.t-mobile.nl/facturen voor|factuuruitleg. Logs in op My T-Mobile|voor uw verbruikstatus en betaalstatus.</AdvTxt>
+    <AdvTxt>S2|JP: Thank you for Hackathon !!!||</AdvTxt>
+    <MailIt>1</MailIt>
+  </InvoiceInfo>
+</Document>

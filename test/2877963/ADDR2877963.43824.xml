@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Document SYSTEM "/BB15A/appl/mnt01/bscs15/PNVE/product/OBILIX/prod/bscs/resource/docgenlib/BillingDocument.dtd">
+<Document Sender="T-Mobile Netherlands B.V." Id="191122BA00028785360" BAId="BA0002878536">
+  <AddressPage xml:lang="NL">
+    <InvParty VATRegNo="">
+      <Addr Name="" City="" Zip="" Country="" Line1="" Line2="" Line3=""/>
+      <FiCont>
+        <Account Num="NL03COBA0733959717" HolderName1="" HolderName2=""/>
+        <Bank Code="NL03COBA0733959717" Name="BCH BANK" Branch="Den Haag"/>
+      </FiCont>
+      <CCContact Person="">
+      </CCContact>
+    </InvParty>
+     <BillAcc Desc="Nm_2877963" PayMeth="Direct Debit" BillMedium="EBILL" CopyNo="1" State="">
+      <Customer Id="1.14577496" SocSecNo="" DrivLicNo=""/>
+      <Addr Name="" City="Hague" Zip="12345" Country="Nederland" Line1="DEMO : T-Mobile" Line2="" Line3="HACKTHON" Line4="" Line5="Hague 12345" Line6="" SortCrit="0000000000000000000000000000000003231 CK"/>
+      <FiCont>
+        <Account Num="NL26ABNA0920652506" HolderName1="Appulduurn" HolderName2=""/>
+        <Bank Code="" Name="" Branch=""/>
+      </FiCont>
+    </BillAcc>
+  </AddressPage>
+</Document>

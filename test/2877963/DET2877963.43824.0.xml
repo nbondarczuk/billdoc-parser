@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Document SYSTEM "/BB15A/appl/mnt01/bscs15/PNVE/product/OBILIX/prod/bscs/resource/docgenlib/BillingDocument.dtd">
+<Document Sender="T-Mobile Netherlands B.V." Id="191122BA00028785365" BAId="BA0002878536">
+  <CallDetails BAId="BA0002878536">
+    <Call>
+      <XCD Id="115321567452" SubId="1" No="1" SeqNo="1" MKT="GSM" CU="CUST0004316351" CO="CONTR0021140566" CTs="20191030134145" CRTs="20191030134145" ChType="R" PrInd="N" DRV="0.000000" DRdV="0.000000" DC="0.000000" OAmt="6.20" DAmt="6.20" CC="EUR" TM="GOP11" SN="XTC" TT="1" TZ="1293" RT="BASE" CAI="I" CTI="0" MCS="1.000000" CT="1" APN="31634515138" RCI="0" NI="H" ANP="Alpha" URP="1" TTR="0.00" DES="NV" DZP="2432" CGI="20416" OPN="FTMSC" DV="0.000000" DUM="Sec" DAV="0.000000" DAUM="KB" MV="1.000000" MUV="Msg" CQC="EUR" SP="SPD02" UT="UI018" USN="XTC" ExtAmt="6.20" PrintDD="Mobiele betaling" VatType="Code4 21%"/>
+    </Call>
+  </CallDetails>
+</Document>

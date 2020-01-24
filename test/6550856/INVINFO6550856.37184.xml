@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding="UTF-8"?>
+<!DOCTYPE Document SYSTEM "/BB33D/appl/mnt01/bscs33/PNVE/product/OBILIX/prod/bscs/resource/docgenlib/BillingDocument.dtd">
+<Document Sender="T-Mobile Netherlands B.V." Id="191028BA00065552422" BAId="BA0006555242">
+<InvoiceInfo>
+<ConvRate Rate="1.000000000000" ConvType="1" Details="">
+<Date Type="CONV_REF" Date="20191031" HH="00" MM="00" SS="00" />
+<Currency Type="1" CurrCode="EUR" Scale="2"/>
+<Currency Type="1" CurrCode="EUR" Scale="2"/>
+</ConvRate>
+<ConvRate Rate="1.000000000000" ConvType="1" Details="">
+<Date Type="CONV_REF" Date="20191031" HH="00" MM="00" SS="00" />
+<Currency Type="2" CurrCode="EUR" Scale="2"/>
+<Currency Type="2" CurrCode="EUR" Scale="2"/>
+</ConvRate>
+<ConvRate Rate="1.000000000000" ConvType="1" Details="">
+<Date Type="CONV_REF" Date="20191031" HH="00" MM="00" SS="00" />
+<Currency Type="2" CurrCode="EUR" Scale="2"/>
+<Currency Type="2" CurrCode="EUR" Scale="2"/>
+</ConvRate>
+<BPStat New="0" Sum="0" Max="10000000" Exp="0"/>
+<PromoDetails>
+</PromoDetails>
+<AdvTxt>M1|||</AdvTxt>
+<AdvTxt>M2||| 
+M2|||</AdvTxt>
+<AdvTxt>M3||| 
+M3|||</AdvTxt>
+<AdvTxt>S1|U kunt ons bereiken:|ma t/m vr 08.00-23.00 uur|za/zo 09.00-17.30 uur</AdvTxt>
+<AdvTxt>S2|0800-7112||</AdvTxt>
+<MailIt>2</MailIt>
+</InvoiceInfo>
+</Document>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Document>
+  <Complement>
+    <CustRef BillCycle="02" CsLevel="40" CustCode="1.14577496" Id="CUST0004316351" IntId="4316355" PriceGroup="1" PrintVat="N">
+      <Contract Id="CONTR0021140566" IntId="21143552"/>
+    </CustRef>
+  </Complement>
+</Document>

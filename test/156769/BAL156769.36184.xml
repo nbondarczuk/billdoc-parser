@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding="UTF-8"?>
+<!DOCTYPE Document SYSTEM "/BB33D/appl/mnt01/bscs33/PNVE/product/OBILIX/prod/bscs/resource/docgenlib/BillingDocument.dtd">
+<Document Sender="T-Mobile Netherlands B.V." Id="180711BA00001567691" BAId="BA0000156769">
+<BalancePage>
+<Date Type="ACC_END" Date="20180711" HH="15" MM="20" SS="15" />
+<Charge Id="961" Amount="33293.45" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="962" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="963" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="964" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="965" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="971" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="972" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="973" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="981" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="982" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="983" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="984" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="985" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="986" Amount="-156.81" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="987" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="989" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="988" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="967" Amount="166.47" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="968" Amount="33459.92" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="969" Amount="33293.45" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="11" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<FTX Type="CRMEM" RefNum="901265487884" >
+<Date Type="BAL_REF" Date="20160328" HH="00" MM="00" SS="00" />
+<Charge Id="960" Amount="-38.07" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="970" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+</FTX>
+<FTX Type="CRMEM" RefNum="901267613940" >
+<Date Type="BAL_REF" Date="20160426" HH="00" MM="00" SS="00" />
+<Charge Id="960" Amount="-53.03" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="970" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+</FTX>
+<FTX Type="CRMEM" RefNum="901271860943" >
+<Date Type="BAL_REF" Date="20160628" HH="00" MM="00" SS="00" />
+<Charge Id="960" Amount="-2.44" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="970" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+</FTX>
+<FTX Type="CRMEM" RefNum="901273957355" >
+<Date Type="BAL_REF" Date="20160727" HH="00" MM="00" SS="00" />
+<Charge Id="960" Amount="-23.78" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="970" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+</FTX>
+<FTX Type="CRMEM" RefNum="901278240352" >
+<Date Type="BAL_REF" Date="20160927" HH="00" MM="00" SS="00" />
+<Charge Id="960" Amount="-39.49" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="970" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+</FTX>
+</BalancePage>
+</Document>

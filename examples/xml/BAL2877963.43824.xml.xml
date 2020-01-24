@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Document SYSTEM "/BB15A/appl/mnt01/bscs15/PNVE/product/OBILIX/prod/bscs/resource/docgenlib/BillingDocument.dtd">
+<Document Sender="T-Mobile Netherlands B.V." Id="191122BA00028785361" BAId="BA0002878536">
+  <BalancePage>
+    <Date Type="ACC_END" Date="20191122" HH="08" MM="01" SS="26"/>
+    <Charge Id="961" Amount="2342.96" CurrCode="EUR" Type="9" PT="P"/>
+    <Charge Id="962" Amount="0.00" CurrCode="EUR" Type="9" PT="P"/>
+    <Charge Id="963" Amount="0.00" CurrCode="EUR" Type="9" PT="P"/>
+    <Charge Id="964" Amount="0.00" CurrCode="EUR" Type="9" PT="P"/>
+    <Charge Id="965" Amount="0.00" CurrCode="EUR" Type="9" PT="P"/>
+    <Charge Id="971" Amount="0.00" CurrCode="EUR" Type="9" PT="P"/>
+    <Charge Id="972" Amount="0.00" CurrCode="EUR" Type="9" PT="P"/>
+    <Charge Id="973" Amount="0.00" CurrCode="EUR" Type="9" PT="P"/>
+    <Charge Id="981" Amount="0.00" CurrCode="EUR" Type="9" PT="P"/>
+    <Charge Id="982" Amount="0.00" CurrCode="EUR" Type="9" PT="P"/>
+    <Charge Id="983" Amount="0.00" CurrCode="EUR" Type="9" PT="P"/>
+    <Charge Id="984" Amount="0.00" CurrCode="EUR" Type="9" PT="P"/>
+    <Charge Id="985" Amount="0.00" CurrCode="EUR" Type="9" PT="P"/>
+    <Charge Id="986" Amount="0.00" CurrCode="EUR" Type="9" PT="P"/>
+    <Charge Id="987" Amount="0.00" CurrCode="EUR" Type="9" PT="P"/>
+    <Charge Id="989" Amount="0.00" CurrCode="EUR" Type="9" PT="P"/>
+    <Charge Id="988" Amount="0.00" CurrCode="EUR" Type="9" PT="P"/>
+    <Charge Id="967" Amount="26.86" CurrCode="EUR" Type="9" PT="P"/>
+    <Charge Id="968" Amount="2369.82" CurrCode="EUR" Type="9" PT="P"/>
+    <Charge Id="969" Amount="2342.96" CurrCode="EUR" Type="9" PT="P"/>
+    <Charge Id="11" Amount="0.00" CurrCode="EUR" Type="9" PT="P"/>
+  </BalancePage>
+</Document>

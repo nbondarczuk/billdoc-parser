@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Envelope SYSTEM "/BB33D/appl/mnt01/bscs33/PNVE/product/OBILIX/prod/bscs/resource/docgenlib/Envelope.dtd">
+<Envelope>
+  <Part File='file:/BCH94008/SEQ0/DET156769.36184.0.xml' LinkType='REL' DocType='XCD' Format='XML'/>
+  <Part File='file:/BCH94008/SEQ0/INV156769.36184.xml' LinkType='REL' DocType='INV' Format='XML'/>
+  <Part File='file:/BCH94008/SEQ0/INVINFO156769.36184.xml' LinkType='REL' DocType='IIN' Format='XML'/>
+  <Part File='file:/BCH94008/SEQ0/SUM156769.36184.xml' LinkType='REL' DocType='SUM' Format='XML'/>
+  <Part File='file:/BCH94008/SEQ0/BAL156769.36184.xml' LinkType='REL' DocType='BAL' Format='XML'/>
+  <Part File='file:/BCH94008/SEQ0/ADDR156769.36184.xml' LinkType='REL' DocType='ADD' Format='XML'/>
+  <Part File='file:/BCH94008/SEQ0/CMP156769.36184.xml' LinkType='REL' DocType='CMP' Format='XML'/>
+  <Part File='file:/BCH94008/SEQ0/GSMISM156769.36184.xml' LinkType='REL' DocType='GSMISM' Format='XML'/>
+</Envelope>

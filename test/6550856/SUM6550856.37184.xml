@@ -1,0 +1,249 @@
+<?xml version='1.0' encoding="UTF-8"?>
+<!DOCTYPE Document SYSTEM "/BB33D/appl/mnt01/bscs33/PNVE/product/OBILIX/prod/bscs/resource/docgenlib/BillingDocument.dtd">
+<Document Sender="T-Mobile Netherlands B.V." Id="191028BA00065552424" BAId="BA0006555242">
+<Summary>
+<Sums>
+<Charge Id="177" Amount="0.16" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="177" Amount="0.00" CurrCode="EUR" Type="9" PT="A" />
+<Charge Id="277" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="277" Amount="0.00" CurrCode="EUR" Type="9" PT="A" />
+<Charge Id="812" Amount="0.16" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="812" Amount="0.00" CurrCode="EUR" Type="9" PT="A" />
+<Charge Id="910" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="911" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="912" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="912" Amount="0.00" CurrCode="EUR" Type="9" PT="A" />
+<Charge Id="913" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+</Sums>
+<CustRef Id="CUST0007995497" CustCode="1.18249265" Reseller="N" PartyType="C">
+<Addr Name="Shanghai" City="" Zip="12345" Country="Nederland" Line1=",," Line2="Shanghai" Line3="Test,1" Line4="" Line5="12345," Line6="" SortCrit="0000000000000000000000000000000000000000" />
+<Charge Id="830" Amount="0.16" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="830" Amount="0.00" CurrCode="EUR" Type="9" PT="A" />
+<Charge Id="930" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="930" Amount="0.00" CurrCode="EUR" Type="9" PT="A" />
+<Charge Id="835" Amount="0.16" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="835" Amount="0.00" CurrCode="EUR" Type="9" PT="A" />
+<Charge Id="935" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="935" Amount="0.00" CurrCode="EUR" Type="9" PT="A" />
+<Charge Id="933" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="934" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="936" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Contract Id="CONTR0031849796" MRKT="GSM" SM="8931169811160189135" BOPInd="N" >
+<DN Num="31614413001" Main="Y" />
+<Charge Id="831" Amount="0.16" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="831" Amount="0.00" CurrCode="EUR" Type="9" PT="A" />
+<Charge Id="931" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="931" Amount="0.00" CurrCode="EUR" Type="9" PT="A" />
+<PerCTInfo CT="U" PT="P" >
+<Charge Id="832" Amount="0.16" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="932" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="838" Amount="0.96" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="938" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="837" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="937" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<SumItem PT="P" ArticleString="709.1.24.1.U.BASE.F.I.1.1.1.1315.1.89" LZString="0001" NumItems="3" CollInd="N" >
+<AggSet>
+<Att Ty="PRO" Id="NLDPN" />
+<Att Ty="TM" Id="BAS15" />
+<Att Ty="SP" Id="SPN01" />
+<Att Ty="SN" Id="TEL" />
+<Att Ty="TT" Id="1" />
+<Att Ty="TZ" Id="1315" />
+<Att Ty="UT" Id="FOPBX" />
+</AggSet>
+<Charge Id="125" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="125" Amount="0.00" CurrCode="EUR" Type="19" PT="P" />
+</SumItem>
+<SumItem PT="P" ArticleString="709.1.24.1.U.BASE.F.I.1.2.1.426.1.77" LZString="0001" NumItems="3" CollInd="N" >
+<AggSet>
+<Att Ty="PRO" Id="NLDPN" />
+<Att Ty="TM" Id="BAS15" />
+<Att Ty="SP" Id="SPN01" />
+<Att Ty="SN" Id="TEL" />
+<Att Ty="TT" Id="1" />
+<Att Ty="TZ" Id="426" />
+<Att Ty="UT" Id="FM-MF-G" />
+</AggSet>
+<Charge Id="125" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="125" Amount="0.00" CurrCode="EUR" Type="19" PT="P" />
+</SumItem>
+<SumItem PT="P" ArticleString="709.1.24.1.U.BASE.F.I.1.2.1.426.1.80" LZString="0001" NumItems="2" CollInd="N" >
+<AggSet>
+<Att Ty="PRO" Id="NLDPN" />
+<Att Ty="TM" Id="BAS15" />
+<Att Ty="SP" Id="SPN01" />
+<Att Ty="SN" Id="TEL" />
+<Att Ty="TT" Id="1" />
+<Att Ty="TZ" Id="426" />
+<Att Ty="UT" Id="FM-MM-G" />
+</AggSet>
+<Charge Id="125" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="125" Amount="0.00" CurrCode="EUR" Type="19" PT="P" />
+</SumItem>
+<SumItem PT="P" ArticleString="709.1.24.1.U.BASE.F.I.1.2.1.994.1.78" LZString="0001" NumItems="1" CollInd="N" >
+<AggSet>
+<Att Ty="PRO" Id="NLDPN" />
+<Att Ty="TM" Id="BAS15" />
+<Att Ty="SP" Id="SPN01" />
+<Att Ty="SN" Id="TEL" />
+<Att Ty="TT" Id="1" />
+<Att Ty="TZ" Id="994" />
+<Att Ty="UT" Id="FM-T-OFF" />
+</AggSet>
+<Charge Id="125" Amount="0.16" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="125" Amount="0.16" CurrCode="EUR" Type="19" PT="P" />
+</SumItem>
+<SumItem PT="P" ArticleString="709.1.24.1.U.BASE.F.I.1.4.1.1250.1.45" LZString="" NumItems="4" CollInd="N" >
+<AggSet>
+<Att Ty="PRO" Id="NLDPN" />
+<Att Ty="TM" Id="BAS15" />
+<Att Ty="SP" Id="SPN01" />
+<Att Ty="SN" Id="TEL" />
+<Att Ty="TT" Id="1" />
+<Att Ty="TZ" Id="1250" />
+<Att Ty="UT" Id="WC72I" />
+</AggSet>
+<Charge Id="125" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="125" Amount="0.00" CurrCode="EUR" Type="19" PT="P" />
+</SumItem>
+</PerCTInfo>
+<PerCTInfo CT="A" PT="P" >
+<Charge Id="832" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="932" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="838" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="938" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="837" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="937" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<SumItem PT="P" ArticleString="709.1.24.1.A.AC.P.A" LZString="" NumItems="1" CollInd="N" NumDays="30" >
+<AggSet>
+<Att Ty="PRO" Id="NLDPN" />
+<Att Ty="TM" Id="BAS15" />
+<Att Ty="SP" Id="SPN01" />
+<Att Ty="SN" Id="TEL" />
+</AggSet>
+<Charge Id="125" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="125" Amount="0.00" CurrCode="EUR" Type="19" PT="P" />
+<Charge Id="65" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Price Price="0.00" CurrCode="EUR" />
+<SrvStatus Status="a" >
+<Date Type="SRV_START" Date="20191031" HH="00" MM="00" SS="00" />
+<Date Type="SRV_END" Date="20191129" HH="23" MM="59" SS="59" />
+<Charge Id="60" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+</SrvStatus>
+</SumItem>
+<SumItem PT="P" ArticleString="709.1.24.1.A.AC.P.P" LZString="" NumItems="1" CollInd="N" NumDays="164" >
+<AggSet>
+<Att Ty="PRO" Id="NLDPN" />
+<Att Ty="TM" Id="BAS15" />
+<Att Ty="SP" Id="SPN01" />
+<Att Ty="SN" Id="TEL" />
+</AggSet>
+<Charge Id="125" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="125" Amount="0.00" CurrCode="EUR" Type="19" PT="P" />
+<Charge Id="65" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Price Price="0.00" CurrCode="EUR" />
+<SrvStatus Status="a" >
+<Date Type="SRV_START" Date="20190520" HH="00" MM="00" SS="00" />
+<Date Type="SRV_END" Date="20191030" HH="23" MM="59" SS="59" />
+<Charge Id="60" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+</SrvStatus>
+</SumItem>
+</PerCTInfo>
+</Contract>
+</CustRef>
+<FUAccInfoPerCo CoId="CONTR0031849796">
+<FUAccInfo>
+<FUAcc Id="123100723" HistId="1" FUP="FWO36" FUE="1" FUEV= "1" UM="Sec" Future="N" PRO="NLDPN" />
+<Date Type="START" Date="20190508" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20190608" HH="00" MM="00" SS="00" />
+<FUActInt>
+<Date Type="START" Date="20190520" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20190607" HH="00" MM="00" SS="00" />
+</FUActInt>
+<FUNum Orig="9999999" Granted="9999999" CurrUsed="252" TotalUsed="252" CarryOver="0"/>
+<Charge Id="54" Amount="0.80" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="55" Amount="0.80" CurrCode="EUR" Type="9" PT="P" />
+</FUAccInfo>
+<FUAccInfo>
+<FUAcc Id="123100723" HistId="2" FUP="FWO36" FUE="1" FUEV= "1" UM="Sec" Future="N" PRO="NLDPN" />
+<Date Type="START" Date="20190608" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20190708" HH="00" MM="00" SS="00" />
+<FUActInt>
+<Date Type="START" Date="20190608" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20190707" HH="00" MM="00" SS="00" />
+</FUActInt>
+<FUNum Orig="9999999" Granted="9999999" CurrUsed="0" TotalUsed="0" CarryOver="0"/>
+<Charge Id="54" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="55" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+</FUAccInfo>
+<FUAccInfo>
+<FUAcc Id="123100723" HistId="3" FUP="FWO36" FUE="1" FUEV= "1" UM="Sec" Future="N" PRO="NLDPN" />
+<Date Type="START" Date="20190708" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20190808" HH="00" MM="00" SS="00" />
+<FUActInt>
+<Date Type="START" Date="20190708" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20190807" HH="00" MM="00" SS="00" />
+</FUActInt>
+<FUNum Orig="9999999" Granted="9999999" CurrUsed="0" TotalUsed="0" CarryOver="0"/>
+<Charge Id="54" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="55" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+</FUAccInfo>
+<FUAccInfo>
+<FUAcc Id="123100723" HistId="4" FUP="FWO36" FUE="1" FUEV= "1" UM="Sec" Future="N" PRO="NLDPN" />
+<Date Type="START" Date="20190808" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20190908" HH="00" MM="00" SS="00" />
+<FUActInt>
+<Date Type="START" Date="20190808" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20190907" HH="00" MM="00" SS="00" />
+</FUActInt>
+<FUNum Orig="9999999" Granted="9999999" CurrUsed="0" TotalUsed="0" CarryOver="0"/>
+<Charge Id="54" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="55" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+</FUAccInfo>
+<FUAccInfo>
+<FUAcc Id="123100723" HistId="5" FUP="FWO36" FUE="1" FUEV= "1" UM="Sec" Future="N" PRO="NLDPN" />
+<Date Type="START" Date="20190908" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20191008" HH="00" MM="00" SS="00" />
+<FUActInt>
+<Date Type="START" Date="20190908" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20191007" HH="00" MM="00" SS="00" />
+</FUActInt>
+<FUNum Orig="9999999" Granted="9999999" CurrUsed="0" TotalUsed="0" CarryOver="0"/>
+<Charge Id="54" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="55" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+</FUAccInfo>
+<FUAccInfo>
+<FUAcc Id="123100723" HistId="6" FUP="FWO36" FUE="1" FUEV= "1" UM="Sec" Future="N" PRO="NLDPN" />
+<Date Type="START" Date="20191008" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20191108" HH="00" MM="00" SS="00" />
+<FUActInt>
+<Date Type="START" Date="20191008" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20191030" HH="00" MM="00" SS="00" />
+</FUActInt>
+<FUNum Orig="9999999" Granted="9999999" CurrUsed="0" TotalUsed="0" CarryOver="0"/>
+<Charge Id="54" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="55" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+</FUAccInfo>
+<FUAccInfo>
+<FUAcc Id="123100723" HistId="0" FUP="FWO36" FUE="1" FUEV= "1" UM="Sec" Future="Y" PRO="NLDPN" />
+<Date Type="START" Date="20191031" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20191130" HH="00" MM="00" SS="00" />
+<FUActInt>
+<Date Type="START" Date="20191031" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20191129" HH="00" MM="00" SS="00" />
+</FUActInt>
+<FUNum Orig="9999999" Granted="9999999" CurrUsed="0" TotalUsed="0" CarryOver="0"/>
+<Charge Id="54" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="55" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+</FUAccInfo>
+</FUAccInfoPerCo>
+<FUDiscountInfoPerCo CoId="CONTR0031849796">
+<FUDiscountInfo FUP="FWO36">
+<Charge Id="56" Amount="0.80" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="55" Amount="0.80" CurrCode="EUR" Type="9" PT="P" />
+<DiscountValue UM="Sec" OrigVal="172.000000" DiscVal="172.000000" />
+<DiscountValue UM="CLICK" OrigVal="79834709.000000" DiscVal="79834709.000000" />
+</FUDiscountInfo>
+</FUDiscountInfoPerCo>
+</Summary>
+</Document>

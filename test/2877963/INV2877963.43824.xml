@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Document SYSTEM "/BB15A/appl/mnt01/bscs15/PNVE/product/OBILIX/prod/bscs/resource/docgenlib/BillingDocument.dtd">
+<Document Sender="T-Mobile Netherlands B.V." Id="191122BA00028785363" BAId="BA0002878536">
+  <Invoice BillingMode="SIM" InvType="INV">
+    <Date Type="INV" Date="20191101" HH="00" MM="00" SS="00"/>
+    <Date Type="START" Date="20191002" HH="00" MM="00" SS="00"/>
+    <Date Type="END" Date="20191031" HH="23" MM="59" SS="59"/>
+    <Date Type="DUE_DATE" Date="20191111" HH="00" MM="00" SS="00"/>
+    <CashDiscount Days="0">
+      <Charge Id="12" Amount="0.00" CurrCode="EUR" Type="9" PT="P"/>
+      <Date Type="DISCOUNT" Date="20191101" HH="00" MM="00" SS="00"/>
+    </CashDiscount>
+	
+    <InvoiceItem NumItem="1" ArticleString="699.1.98.3553.A.AC.P.P.P.56523755" CT="A" CollInd="N">
+      <AggSet>
+        <Att Ty="TM" Id="GOP11"/>
+        <Att Ty="SP" Id="K0001"/>
+        <Att Ty="SN" Id="GKG03"/>
+        <Att Ty="MRKT" Id="GSM"/>
+      </AggSet>
+      <SrvParams FlexParamDesc="Billing Display Field:E 10.00 korting Next" ParamDesc="" ParamVal="">
+        <Date Type="SRV_START" Date="20180806" HH="00" MM="00" SS="00"/>
+      </SrvParams>
+      <Charge Id="99" Amount="-7.99" CurrCode="EUR" Type="9" PT="P"/>
+      <Charge Id="125" Amount="-7.99" CurrCode="EUR" Type="5" PT="P"/>
+      <Charge Id="203" Amount="-9.67" CurrCode="EUR" Type="9" PT="P"/>
+      <Charge Id="65" Amount="-8.26" CurrCode="EUR" Type="9" PT="P"/>
+      <Price Price="-8.26" CurrCode="EUR"/>
+      <Tax ItemType="1" Cat="VAT @ 21 %" Name="VAT 21%" LegalCode="B1" Rate="21.00000" CalcMethod="R" Exemption="S">
+        <Charge Id="124" Amount="-1.68" CurrCode="EUR" Type="9" PT="P"/>
+      </Tax>
+    </InvoiceItem>
+
+	<InvoiceItem NumItem="1" ArticleString="699.1.98.3553.A.AC.P.C.P.56523755" CT="A" CollInd="N">
+      <AggSet>
+        <Att Ty="TM" Id="GOP11"/>
+        <Att Ty="SP" Id="K0001"/>
+        <Att Ty="SN" Id="GKG03"/>
+        <Att Ty="MRKT" Id="GSM"/>
+      </AggSet>
+      <SrvParams FlexParamDesc="Billing Display Field:E 10.00 korting Next" ParamDesc="" ParamVal="">
+        <Date Type="SRV_START" Date="20180806" HH="00" MM="00" SS="00"/>
+      </SrvParams>
+      <Charge Id="99" Amount="8.26" CurrCode="EUR" Type="9" PT="P"/>
+      <Charge Id="125" Amount="8.26" CurrCode="EUR" Type="5" PT="P"/>
+      <Charge Id="203" Amount="9.99" CurrCode="EUR" Type="9" PT="P"/>
+      <Charge Id="65" Amount="-8.26" CurrCode="EUR" Type="9" PT="P"/>
+      <Price Price="-8.26" CurrCode="EUR"/>
+      <Tax ItemType="1" Cat="VAT @ 21 %" Name="VAT 21%" LegalCode="B1" Rate="21.00000" CalcMethod="R" Exemption="S">
+        <Charge Id="124" Amount="1.73" CurrCode="EUR" Type="9" PT="P"/>
+      </Tax>
+    </InvoiceItem>
+
+	<InvoiceItem NumItem="1" ArticleString="699.1.98.3553.A.AC.P.A.P.56523755" CT="A" CollInd="N">
+      <AggSet>
+        <Att Ty="TM" Id="GOP11"/>
+        <Att Ty="SP" Id="K0001"/>
+        <Att Ty="SN" Id="GKG03"/>
+        <Att Ty="MRKT" Id="GSM"/>
+      </AggSet>
+      <SrvParams FlexParamDesc="Billing Display Field:E 10.00 korting Next" ParamDesc="" ParamVal="">
+        <Date Type="SRV_START" Date="20180806" HH="00" MM="00" SS="00"/>
+      </SrvParams>
+      <Charge Id="99" Amount="-8.26" CurrCode="EUR" Type="9" PT="P"/>
+      <Charge Id="125" Amount="-8.26" CurrCode="EUR" Type="5" PT="P"/>
+      <Charge Id="203" Amount="-9.99" CurrCode="EUR" Type="9" PT="P"/>
+      <Charge Id="65" Amount="-8.26" CurrCode="EUR" Type="9" PT="P"/>
+      <Price Price="-8.26" CurrCode="EUR"/>
+      <Tax ItemType="1" Cat="VAT @ 21 %" Name="VAT 21%" LegalCode="B1" Rate="21.00000" CalcMethod="R" Exemption="S">
+        <Charge Id="124" Amount="-1.73" CurrCode="EUR" Type="9" PT="P"/>
+      </Tax>
+    </InvoiceItem>
+
+	<InvoiceItem NumItem="1" ArticleString="699.1.33.3533.A.AC.P.P" CT="A" CollInd="N">
+      <AggSet>
+        <Att Ty="TM" Id="GOP11"/>
+        <Att Ty="SP" Id="SPP01"/>
+        <Att Ty="SN" Id="GAP12"/>
+        <Att Ty="MRKT" Id="PDS"/>
+      </AggSet>
+      <Charge Id="99" Amount="23.99" CurrCode="EUR" Type="9" PT="P"/>
+      <Charge Id="125" Amount="23.99" CurrCode="EUR" Type="5" PT="P"/>
+      <Charge Id="203" Amount="29.03" CurrCode="EUR" Type="9" PT="P"/>
+      <Charge Id="65" Amount="24.79" CurrCode="EUR" Type="9" PT="P"/>
+      <Price Price="24.79" CurrCode="EUR"/>
+      <Tax ItemType="1" Cat="VAT @ 21 %" Name="VAT 21%" LegalCode="B1" Rate="21.00000" CalcMethod="R" Exemption="S">
+        <Charge Id="124" Amount="5.04" CurrCode="EUR" Type="9" PT="P"/>
+      </Tax>
+    </InvoiceItem>
+	
+    <InvoiceItem NumItem="1" ArticleString="699.1.33.3533.A.AC.P.C" CT="A" CollInd="N">
+      <AggSet>
+        <Att Ty="TM" Id="GOP11"/>
+        <Att Ty="SP" Id="SPP01"/>
+        <Att Ty="SN" Id="GAP12"/>
+        <Att Ty="MRKT" Id="PDS"/>
+      </AggSet>
+      <Charge Id="99" Amount="-24.79" CurrCode="EUR" Type="9" PT="P"/>
+      <Charge Id="125" Amount="-24.79" CurrCode="EUR" Type="5" PT="P"/>
+      <Charge Id="203" Amount="-30.00" CurrCode="EUR" Type="9" PT="P"/>
+      <Charge Id="65" Amount="24.79" CurrCode="EUR" Type="9" PT="P"/>
+      <Price Price="24.79" CurrCode="EUR"/>
+      <Tax ItemType="1" Cat="VAT @ 21 %" Name="VAT 21%" LegalCode="B1" Rate="21.00000" CalcMethod="R" Exemption="S">
+        <Charge Id="124" Amount="-5.21" CurrCode="EUR" Type="9" PT="P"/>
+      </Tax>
+    </InvoiceItem>
+	
+    <InvoiceItem NumItem="1" ArticleString="699.1.33.3533.A.AC.P.A" CT="A" CollInd="N">
+      <AggSet>
+        <Att Ty="TM" Id="GOP11"/>
+        <Att Ty="SP" Id="SPP01"/>
+        <Att Ty="SN" Id="GAP12"/>
+        <Att Ty="MRKT" Id="PDS"/>
+      </AggSet>
+      <Charge Id="99" Amount="24.79" CurrCode="EUR" Type="9" PT="P"/>
+      <Charge Id="125" Amount="24.79" CurrCode="EUR" Type="5" PT="P"/>
+      <Charge Id="203" Amount="30.00" CurrCode="EUR" Type="9" PT="P"/>
+      <Charge Id="65" Amount="24.79" CurrCode="EUR" Type="9" PT="P"/>
+      <Price Price="24.79" CurrCode="EUR"/>
+      <Tax ItemType="1" Cat="VAT @ 21 %" Name="VAT 21%" LegalCode="B1" Rate="21.00000" CalcMethod="R" Exemption="S">
+        <Charge Id="124" Amount="5.21" CurrCode="EUR" Type="9" PT="P"/>
+      </Tax>
+    </InvoiceItem>
+	
+    <InvoiceItem NumItem="1" ArticleString="699.1.24.1.A.AC.P.P" CT="A" CollInd="N">
+      <AggSet>
+        <Att Ty="TM" Id="GOP11"/>
+        <Att Ty="SP" Id="SPN01"/>
+        <Att Ty="SN" Id="TEL"/>
+        <Att Ty="MRKT" Id="GSM"/>
+      </AggSet>
+      <Charge Id="99" Amount="0.00" CurrCode="EUR" Type="9" PT="P"/>
+      <Charge Id="125" Amount="0.00" CurrCode="EUR" Type="5" PT="P"/>
+      <Charge Id="203" Amount="0.00" CurrCode="EUR" Type="9" PT="P"/>
+      <Charge Id="65" Amount="0.00" CurrCode="EUR" Type="9" PT="P"/>
+      <Price Price="0.00" CurrCode="EUR"/>
+      <Tax ItemType="1" Cat="VAT @ 21 %" Name="VAT 21%" LegalCode="B1" Rate="21.00000" CalcMethod="R" Exemption="S">
+        <Charge Id="124" Amount="0.00" CurrCode="EUR" Type="9" PT="P"/>
+      </Tax>
+    </InvoiceItem>
+
+	<InvoiceItem NumItem="1" ArticleString="699.1.24.1.A.AC.P.C" CT="A" CollInd="N">
+      <AggSet>
+        <Att Ty="TM" Id="GOP11"/>
+        <Att Ty="SP" Id="SPN01"/>
+        <Att Ty="SN" Id="TEL"/>
+        <Att Ty="MRKT" Id="GSM"/>
+      </AggSet>
+      <Charge Id="99" Amount="0.00" CurrCode="EUR" Type="9" PT="P"/>
+      <Charge Id="125" Amount="0.00" CurrCode="EUR" Type="5" PT="P"/>
+      <Charge Id="203" Amount="0.00" CurrCode="EUR" Type="9" PT="P"/>
+      <Charge Id="65" Amount="0.00" CurrCode="EUR" Type="9" PT="P"/>
+      <Price Price="0.00" CurrCode="EUR"/>
+      <Tax ItemType="1" Cat="VAT @ 21 %" Name="VAT 21%" LegalCode="B1" Rate="21.00000" CalcMethod="R" Exemption="S">
+        <Charge Id="124" Amount="0.00" CurrCode="EUR" Type="9" PT="P"/>
+      </Tax>
+    </InvoiceItem>
+	
+    <InvoiceItem NumItem="1" ArticleString="699.1.24.1.A.AC.P.A" CT="A" CollInd="N">
+      <AggSet>
+        <Att Ty="TM" Id="GOP11"/>
+        <Att Ty="SP" Id="SPN01"/>
+        <Att Ty="SN" Id="TEL"/>
+        <Att Ty="MRKT" Id="GSM"/>
+      </AggSet>
+      <Charge Id="99" Amount="0.00" CurrCode="EUR" Type="9" PT="P"/>
+      <Charge Id="125" Amount="0.00" CurrCode="EUR" Type="5" PT="P"/>
+      <Charge Id="203" Amount="0.00" CurrCode="EUR" Type="9" PT="P"/>
+      <Charge Id="65" Amount="0.00" CurrCode="EUR" Type="9" PT="P"/>
+      <Price Price="0.00" CurrCode="EUR"/>
+      <Tax ItemType="1" Cat="VAT @ 21 %" Name="VAT 21%" LegalCode="B1" Rate="21.00000" CalcMethod="R" Exemption="S">
+        <Charge Id="124" Amount="0.00" CurrCode="EUR" Type="9" PT="P"/>
+      </Tax>
+    </InvoiceItem>
+
+	<InvoiceItem NumItem="1" ArticleString="699.1.41.509.U.BASE.F.R.8.8.1.1293.0.33" CT="U" CollInd="N">
+      <AggSet>
+        <Att Ty="TM" Id="GOP11"/>
+        <Att Ty="SP" Id="SPD02"/>
+        <Att Ty="SN" Id="XTC"/>
+        <Att Ty="MRKT" Id="GSM"/>
+        <Att Ty="TT" Id="1"/>
+        <Att Ty="TZ" Id="1293"/>
+        <Att Ty="UT" Id="UI018"/>
+      </AggSet>
+      <Charge Id="99" Amount="6.20" CurrCode="EUR" Type="9" PT="P"/>
+      <Charge Id="125" Amount="6.20" CurrCode="EUR" Type="5" PT="P"/>
+      <Charge Id="203" Amount="7.50" CurrCode="EUR" Type="9" PT="P"/>
+      <Tax ItemType="1" Cat="VAT @ 21 %" Name="VAT 21%" LegalCode="B1" Rate="21.00000" CalcMethod="R" Exemption="S">
+        <Charge Id="124" Amount="1.30" CurrCode="EUR" Type="9" PT="P"/>
+      </Tax>
+    </InvoiceItem>
+
+	<InvoiceTotals>
+      <Charge Id="76" Amount="2342.96" CurrCode="EUR" Type="5" PT="P"/>
+      <Charge Id="978" Amount="-41.04" CurrCode="EUR" Type="5" PT="P"/>
+      <Charge Id="977" Amount="63.24" CurrCode="EUR" Type="5" PT="P"/>
+      <Charge Id="79" Amount="22.20" CurrCode="EUR" Type="5" PT="P"/>
+      <Charge Id="79" Amount="22.20" CurrCode="EUR" Type="19" PT="P"/>
+      <Charge Id="79" Amount="0.00" CurrCode="EUR" Type="9" PT="A"/>
+      <Charge Id="79" Amount="0.00" CurrCode="EUR" Type="19" PT="A"/>
+      <Charge Id="77" Amount="26.86" CurrCode="EUR" Type="5" PT="P"/>
+      <Charge Id="77" Amount="26.86" CurrCode="EUR" Type="19" PT="P"/>
+      <Charge Id="77" Amount="0.00" CurrCode="EUR" Type="9" PT="A"/>
+      <Charge Id="77" Amount="0.00" CurrCode="EUR" Type="19" PT="A"/>
+      <Charge Id="980" Amount="0.00" CurrCode="EUR" Type="5" PT="P"/>
+      <Charge Id="980" Amount="0.00" CurrCode="EUR" Type="9" PT="A"/>
+      <Charge Id="178" Amount="26.86" CurrCode="EUR" Type="5" PT="P"/>
+      <Charge Id="969" Amount="2342.96" CurrCode="EUR" Type="5" PT="P"/>
+      <Charge Id="961" Amount="2342.96" CurrCode="EUR" Type="5" PT="P"/>
+      <Charge Id="11" Amount="0.00" CurrCode="EUR" Type="5" PT="P"/>
+      <Charge Id="700" Amount="0.00" CurrCode="EUR" Type="9" PT="A"/>
+      <Charge Id="701" Amount="0.00" CurrCode="EUR" Type="9" PT="A"/>
+      <Charge Id="702" Amount="0.00" CurrCode="EUR" Type="9" PT="A"/>
+      <Charge Id="703" Amount="26.86" CurrCode="EUR" Type="9" PT="P"/>
+      <Charge Id="704" Amount="0.00" CurrCode="EUR" Type="9" PT="P"/>
+      <Charge Id="78" Amount="2369.82" CurrCode="EUR" Type="9" PT="P"/>
+    </InvoiceTotals>
+	
+    <Tax ItemType="3" Cat="VAT @ 21 %" Name="" LegalCode="B1" Rate="21.00000" CalcMethod="R" Exemption="S">
+      <Charge Id="124" Amount="4.66" CurrCode="EUR" Type="5" PT="P"/>
+      <Charge Id="125" Amount="22.20" CurrCode="EUR" Type="9" PT="P"/>
+    </Tax>
+	
+  </Invoice>
+</Document>

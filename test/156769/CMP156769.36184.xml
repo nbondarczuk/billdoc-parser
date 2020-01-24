@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Document>
+
+  <Complement>
+    <CustRef BillCycle="23" CsLevel="40" CustCode="1.12245545" Id="CUST0001980755" IntId="1980755" PriceGroup="22" PrintVat="N">
+      <NoSubstatement/>
+      <NoSumsheet/>
+      <Contract Id="CONTR0007835755" IntId="7835755"/>
+      <Contract Id="CONTR0009839812" IntId="9839812"/>
+      <Contract Id="CONTR0009839792" IntId="9839792"/>
+      <Contract Id="CONTR0012836993" IntId="12836993"/>
+      <Contract Id="CONTR0009622069" IntId="9622069"/>
+      <Contract Id="CONTR0011031663" IntId="11031663"/>
+      <Contract Id="CONTR0012523140" IntId="12523140"/>
+      <Contract Id="CONTR0028150166" IntId="28159016"/>
+      <Contract Id="CONTR0010895408" IntId="10895408"/>
+      <Contract Id="CONTR0015901626" IntId="15901626"/>
+      <Contract Id="CONTR0015901627" IntId="15901627"/>
+    </CustRef>
+  </Complement>
+
+</Document>

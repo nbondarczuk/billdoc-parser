@@ -1,0 +1,1280 @@
+<?xml version='1.0' encoding="UTF-8"?>
+<!DOCTYPE Document SYSTEM "/BB33D/appl/mnt01/bscs33/PNVE/product/OBILIX/prod/bscs/resource/docgenlib/BillingDocument.dtd">
+<Document Sender="T-Mobile Netherlands B.V." Id="180711BA00001567694" BAId="BA0000156769">
+<Summary>
+<Sums>
+<Charge Id="177" Amount="137.58" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="177" Amount="0.00" CurrCode="EUR" Type="9" PT="A" />
+<Charge Id="277" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="277" Amount="0.00" CurrCode="EUR" Type="9" PT="A" />
+<Charge Id="812" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="812" Amount="0.00" CurrCode="EUR" Type="9" PT="A" />
+<Charge Id="910" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="911" Amount="137.58" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="912" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="912" Amount="0.00" CurrCode="EUR" Type="9" PT="A" />
+<Charge Id="913" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+</Sums>
+<CustRef Id="CUST0001980755" CustCode="1.12245545" Reseller="N" PartyType="C">
+<Addr Name="" City="WAGENINGEN" Zip="6707 BR" Country="Nederland" Line1="Kurvy Stukk Brukung,," Line2="" Line3="Akeleistraat,76" Line4="" Line5="6707 BR,WAGENINGEN" Line6="" SortCrit="0000000000000000000000000000000006707 BR" />
+<Charge Id="830" Amount="137.58" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="830" Amount="0.00" CurrCode="EUR" Type="9" PT="A" />
+<Charge Id="930" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="930" Amount="0.00" CurrCode="EUR" Type="9" PT="A" />
+<Charge Id="835" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="835" Amount="0.00" CurrCode="EUR" Type="9" PT="A" />
+<Charge Id="935" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="935" Amount="0.00" CurrCode="EUR" Type="9" PT="A" />
+<Charge Id="933" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="934" Amount="137.58" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="936" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Contract Id="CONTR0009622069" MRKT="GSM" SM="8931162112380443619" BOPInd="N" >
+<DN Num="31624245353" Main="Y" />
+<Charge Id="831" Amount="60.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="831" Amount="0.00" CurrCode="EUR" Type="9" PT="A" />
+<Charge Id="931" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="931" Amount="0.00" CurrCode="EUR" Type="9" PT="A" />
+<PerCTInfo CT="U" PT="P" >
+<Charge Id="832" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="932" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="838" Amount="14.40" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="938" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="837" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="937" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<SumItem PT="P" ArticleString="464.5.51.3.U.BASE.F.I.5.10.1.968.3.2" LZString="0001" NumItems="90" CollInd="N" >
+<AggSet>
+<Att Ty="PRO" Id="NLDPN" />
+<Att Ty="TM" Id="FB11R" />
+<Att Ty="SP" Id="SPMM1" />
+<Att Ty="SN" Id="SMS" />
+<Att Ty="TT" Id="1" />
+<Att Ty="TZ" Id="968" />
+<Att Ty="UT" Id="OUT" />
+</AggSet>
+<Charge Id="125" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="125" Amount="0.00" CurrCode="EUR" Type="19" PT="P" />
+</SumItem>
+</PerCTInfo>
+<PerCTInfo CT="A" PT="P" >
+<Charge Id="832" Amount="60.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="932" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="838" Amount="60.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="938" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="837" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="937" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<SumItem PT="P" ArticleString="464.5.24.1.A.AC.P.A" LZString="" NumItems="1" CollInd="N" NumDays="31" >
+<AggSet>
+<Att Ty="PRO" Id="NLDPN" />
+<Att Ty="TM" Id="FB11R" />
+<Att Ty="SP" Id="SPN01" />
+<Att Ty="SN" Id="TEL" />
+</AggSet>
+<Charge Id="125" Amount="20.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="125" Amount="20.00" CurrCode="EUR" Type="19" PT="P" />
+<Charge Id="65" Amount="20.00" CurrCode="EUR" Type="9" PT="P" />
+<Price Price="20.00" CurrCode="EUR" />
+<SrvStatus Status="a" >
+<Date Type="SRV_START" Date="20180723" HH="00" MM="00" SS="00" />
+<Date Type="SRV_END" Date="20180822" HH="23" MM="59" SS="59" />
+<Charge Id="60" Amount="20.00" CurrCode="EUR" Type="9" PT="P" />
+</SrvStatus>
+</SumItem>
+<SumItem PT="P" ArticleString="464.5.24.1.A.AC.P.C" LZString="" NumItems="1" CollInd="N" NumDays="30" >
+<AggSet>
+<Att Ty="PRO" Id="NLDPN" />
+<Att Ty="TM" Id="FB11R" />
+<Att Ty="SP" Id="SPN01" />
+<Att Ty="SN" Id="TEL" />
+</AggSet>
+<Charge Id="125" Amount="-20.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="125" Amount="-20.00" CurrCode="EUR" Type="19" PT="P" />
+<Charge Id="65" Amount="20.00" CurrCode="EUR" Type="9" PT="P" />
+<Price Price="20.00" CurrCode="EUR" />
+<SrvStatus Status=" " >
+<Date Type="SRV_START" Date="20180423" HH="00" MM="00" SS="00" />
+<Date Type="SRV_END" Date="20180522" HH="23" MM="59" SS="59" />
+<Charge Id="60" Amount="-20.00" CurrCode="EUR" Type="9" PT="P" />
+</SrvStatus>
+</SumItem>
+<SumItem PT="P" ArticleString="464.5.24.1.A.AC.P.P" LZString="" NumItems="1" CollInd="N" NumDays="91" >
+<AggSet>
+<Att Ty="PRO" Id="NLDPN" />
+<Att Ty="TM" Id="FB11R" />
+<Att Ty="SP" Id="SPN01" />
+<Att Ty="SN" Id="TEL" />
+</AggSet>
+<Charge Id="125" Amount="60.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="125" Amount="60.00" CurrCode="EUR" Type="19" PT="P" />
+<Charge Id="65" Amount="20.00" CurrCode="EUR" Type="9" PT="P" />
+<Price Price="20.00" CurrCode="EUR" />
+<SrvStatus Status="a" >
+<Date Type="SRV_START" Date="20180423" HH="00" MM="00" SS="00" />
+<Date Type="SRV_END" Date="20180722" HH="23" MM="59" SS="59" />
+<Charge Id="60" Amount="60.00" CurrCode="EUR" Type="9" PT="P" />
+</SrvStatus>
+</SumItem>
+<SumItem PT="P" ArticleString="464.5.33.2985.A.AC.P.A" LZString="" NumItems="1" CollInd="N" NumDays="31" >
+<AggSet>
+<Att Ty="PRO" Id="NLDPN" />
+<Att Ty="TM" Id="FB11R" />
+<Att Ty="SP" Id="SPP01" />
+<Att Ty="SN" Id="CD004" />
+</AggSet>
+<Charge Id="125" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="125" Amount="0.00" CurrCode="EUR" Type="19" PT="P" />
+<Charge Id="65" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Price Price="0.00" CurrCode="EUR" />
+<SrvStatus Status="a" >
+<Date Type="SRV_START" Date="20180723" HH="00" MM="00" SS="00" />
+<Date Type="SRV_END" Date="20180822" HH="23" MM="59" SS="59" />
+<Charge Id="60" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+</SrvStatus>
+</SumItem>
+<SumItem PT="P" ArticleString="464.5.33.2985.A.AC.P.C" LZString="" NumItems="1" CollInd="N" NumDays="30" >
+<AggSet>
+<Att Ty="PRO" Id="NLDPN" />
+<Att Ty="TM" Id="FB11R" />
+<Att Ty="SP" Id="SPP01" />
+<Att Ty="SN" Id="CD004" />
+</AggSet>
+<Charge Id="125" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="125" Amount="0.00" CurrCode="EUR" Type="19" PT="P" />
+<Charge Id="65" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Price Price="0.00" CurrCode="EUR" />
+<SrvStatus Status=" " >
+<Date Type="SRV_START" Date="20180423" HH="00" MM="00" SS="00" />
+<Date Type="SRV_END" Date="20180522" HH="23" MM="59" SS="59" />
+<Charge Id="60" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+</SrvStatus>
+</SumItem>
+<SumItem PT="P" ArticleString="464.5.33.2985.A.AC.P.P" LZString="" NumItems="1" CollInd="N" NumDays="91" >
+<AggSet>
+<Att Ty="PRO" Id="NLDPN" />
+<Att Ty="TM" Id="FB11R" />
+<Att Ty="SP" Id="SPP01" />
+<Att Ty="SN" Id="CD004" />
+</AggSet>
+<Charge Id="125" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="125" Amount="0.00" CurrCode="EUR" Type="19" PT="P" />
+<Charge Id="65" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Price Price="0.00" CurrCode="EUR" />
+<SrvStatus Status="a" >
+<Date Type="SRV_START" Date="20180423" HH="00" MM="00" SS="00" />
+<Date Type="SRV_END" Date="20180722" HH="23" MM="59" SS="59" />
+<Charge Id="60" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+</SrvStatus>
+</SumItem>
+</PerCTInfo>
+</Contract>
+<Contract Id="CONTR0015901627" MRKT="GSM" SM="8931163113010188631" BOPInd="N" >
+<DN Num="31634347575" Main="Y" />
+<Charge Id="831" Amount="53.79" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="831" Amount="0.00" CurrCode="EUR" Type="9" PT="A" />
+<Charge Id="931" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="931" Amount="0.00" CurrCode="EUR" Type="9" PT="A" />
+<PerCTInfo CT="A" PT="P" >
+<Charge Id="832" Amount="53.79" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="932" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="838" Amount="53.79" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="938" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="837" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="937" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<SumItem PT="P" ArticleString="464.5.24.1.A.AC.P.A" LZString="" NumItems="1" CollInd="N" NumDays="31" >
+<AggSet>
+<Att Ty="PRO" Id="NLDPN" />
+<Att Ty="TM" Id="FB11R" />
+<Att Ty="SP" Id="SPN01" />
+<Att Ty="SN" Id="TEL" />
+</AggSet>
+<Charge Id="125" Amount="20.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="125" Amount="20.00" CurrCode="EUR" Type="19" PT="P" />
+<Charge Id="65" Amount="20.00" CurrCode="EUR" Type="9" PT="P" />
+<Price Price="20.00" CurrCode="EUR" />
+<SrvStatus Status="a" >
+<Date Type="SRV_START" Date="20180723" HH="00" MM="00" SS="00" />
+<Date Type="SRV_END" Date="20180822" HH="23" MM="59" SS="59" />
+<Charge Id="60" Amount="20.00" CurrCode="EUR" Type="9" PT="P" />
+</SrvStatus>
+</SumItem>
+<SumItem PT="P" ArticleString="464.5.24.1.A.AC.P.C" LZString="" NumItems="1" CollInd="N" NumDays="30" >
+<AggSet>
+<Att Ty="PRO" Id="NLDPN" />
+<Att Ty="TM" Id="FB11R" />
+<Att Ty="SP" Id="SPN01" />
+<Att Ty="SN" Id="TEL" />
+</AggSet>
+<Charge Id="125" Amount="-20.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="125" Amount="-20.00" CurrCode="EUR" Type="19" PT="P" />
+<Charge Id="65" Amount="20.00" CurrCode="EUR" Type="9" PT="P" />
+<Price Price="20.00" CurrCode="EUR" />
+<SrvStatus Status=" " >
+<Date Type="SRV_START" Date="20180423" HH="00" MM="00" SS="00" />
+<Date Type="SRV_END" Date="20180522" HH="23" MM="59" SS="59" />
+<Charge Id="60" Amount="-20.00" CurrCode="EUR" Type="9" PT="P" />
+</SrvStatus>
+</SumItem>
+<SumItem PT="P" ArticleString="464.5.24.1.A.AC.P.P" LZString="" NumItems="1" CollInd="N" NumDays="91" >
+<AggSet>
+<Att Ty="PRO" Id="NLDPN" />
+<Att Ty="TM" Id="FB11R" />
+<Att Ty="SP" Id="SPN01" />
+<Att Ty="SN" Id="TEL" />
+</AggSet>
+<Charge Id="125" Amount="60.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="125" Amount="60.00" CurrCode="EUR" Type="19" PT="P" />
+<Charge Id="65" Amount="20.00" CurrCode="EUR" Type="9" PT="P" />
+<Price Price="20.00" CurrCode="EUR" />
+<SrvStatus Status="a" >
+<Date Type="SRV_START" Date="20180423" HH="00" MM="00" SS="00" />
+<Date Type="SRV_END" Date="20180722" HH="23" MM="59" SS="59" />
+<Charge Id="60" Amount="60.00" CurrCode="EUR" Type="9" PT="P" />
+</SrvStatus>
+</SumItem>
+<SumItem PT="P" ArticleString="464.5.98.2986.A.AC.P.A" LZString="" NumItems="1" CollInd="N" NumDays="31" >
+<AggSet>
+<Att Ty="PRO" Id="NLDPN" />
+<Att Ty="TM" Id="FB11R" />
+<Att Ty="SP" Id="K0001" />
+<Att Ty="SN" Id="GKD08" />
+</AggSet>
+<Charge Id="125" Amount="-2.07" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="125" Amount="-2.07" CurrCode="EUR" Type="19" PT="P" />
+<Charge Id="65" Amount="-2.07" CurrCode="EUR" Type="9" PT="P" />
+<Price Price="-2.07" CurrCode="EUR" />
+<SrvStatus Status="a" >
+<Date Type="SRV_START" Date="20180723" HH="00" MM="00" SS="00" />
+<Date Type="SRV_END" Date="20180822" HH="23" MM="59" SS="59" />
+<Charge Id="60" Amount="-2.07" CurrCode="EUR" Type="9" PT="P" />
+</SrvStatus>
+<SrvParams FlexParamDesc="Billing Display Field:" ParamDesc="" ParamVal="" >
+<Date Type="SRV_START" Date="20170723" HH="00" MM="00" SS="00" />
+</SrvParams>
+</SumItem>
+<SumItem PT="P" ArticleString="464.5.98.2986.A.AC.P.C" LZString="" NumItems="1" CollInd="N" NumDays="30" >
+<AggSet>
+<Att Ty="PRO" Id="NLDPN" />
+<Att Ty="TM" Id="FB11R" />
+<Att Ty="SP" Id="K0001" />
+<Att Ty="SN" Id="GKD08" />
+</AggSet>
+<Charge Id="125" Amount="2.07" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="125" Amount="2.07" CurrCode="EUR" Type="19" PT="P" />
+<Charge Id="65" Amount="-2.07" CurrCode="EUR" Type="9" PT="P" />
+<Price Price="-2.07" CurrCode="EUR" />
+<SrvStatus Status=" " >
+<Date Type="SRV_START" Date="20180423" HH="00" MM="00" SS="00" />
+<Date Type="SRV_END" Date="20180522" HH="23" MM="59" SS="59" />
+<Charge Id="60" Amount="2.07" CurrCode="EUR" Type="9" PT="P" />
+</SrvStatus>
+<SrvParams FlexParamDesc="Billing Display Field:" ParamDesc="" ParamVal="" >
+<Date Type="SRV_START" Date="20170723" HH="00" MM="00" SS="00" />
+</SrvParams>
+</SumItem>
+<SumItem PT="P" ArticleString="464.5.98.2986.A.AC.P.P" LZString="" NumItems="1" CollInd="N" NumDays="91" >
+<AggSet>
+<Att Ty="PRO" Id="NLDPN" />
+<Att Ty="TM" Id="FB11R" />
+<Att Ty="SP" Id="K0001" />
+<Att Ty="SN" Id="GKD08" />
+</AggSet>
+<Charge Id="125" Amount="-6.21" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="125" Amount="-6.21" CurrCode="EUR" Type="19" PT="P" />
+<Charge Id="65" Amount="-2.07" CurrCode="EUR" Type="9" PT="P" />
+<Price Price="-2.07" CurrCode="EUR" />
+<SrvStatus Status="a" >
+<Date Type="SRV_START" Date="20180423" HH="00" MM="00" SS="00" />
+<Date Type="SRV_END" Date="20180722" HH="23" MM="59" SS="59" />
+<Charge Id="60" Amount="-6.21" CurrCode="EUR" Type="9" PT="P" />
+</SrvStatus>
+<SrvParams FlexParamDesc="Billing Display Field:" ParamDesc="" ParamVal="" >
+<Date Type="SRV_START" Date="20170723" HH="00" MM="00" SS="00" />
+</SrvParams>
+</SumItem>
+</PerCTInfo>
+</Contract>
+<Contract Id="CONTR0028150166" MRKT="GSM" SM="8931162112380192000" BOPInd="N" >
+<DN Num="31621222300" Main="Y" />
+<Charge Id="831" Amount="23.79" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="831" Amount="0.00" CurrCode="EUR" Type="9" PT="A" />
+<Charge Id="931" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="931" Amount="0.00" CurrCode="EUR" Type="9" PT="A" />
+<PerCTInfo CT="A" PT="P" >
+<Charge Id="832" Amount="23.79" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="932" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="838" Amount="23.79" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="938" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="837" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="937" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<SumItem PT="P" ArticleString="470.5.24.1.A.AC.P.A" LZString="" NumItems="1" CollInd="N" NumDays="31" >
+<AggSet>
+<Att Ty="PRO" Id="NLDPN" />
+<Att Ty="TM" Id="FB11S" />
+<Att Ty="SP" Id="SPN01" />
+<Att Ty="SN" Id="TEL" />
+</AggSet>
+<Charge Id="125" Amount="10.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="125" Amount="10.00" CurrCode="EUR" Type="19" PT="P" />
+<Charge Id="65" Amount="10.00" CurrCode="EUR" Type="9" PT="P" />
+<Price Price="10.00" CurrCode="EUR" />
+<SrvStatus Status="a" >
+<Date Type="SRV_START" Date="20180723" HH="00" MM="00" SS="00" />
+<Date Type="SRV_END" Date="20180822" HH="23" MM="59" SS="59" />
+<Charge Id="60" Amount="10.00" CurrCode="EUR" Type="9" PT="P" />
+</SrvStatus>
+</SumItem>
+<SumItem PT="P" ArticleString="470.5.24.1.A.AC.P.C" LZString="" NumItems="1" CollInd="N" NumDays="30" >
+<AggSet>
+<Att Ty="PRO" Id="NLDPN" />
+<Att Ty="TM" Id="FB11S" />
+<Att Ty="SP" Id="SPN01" />
+<Att Ty="SN" Id="TEL" />
+</AggSet>
+<Charge Id="125" Amount="-10.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="125" Amount="-10.00" CurrCode="EUR" Type="19" PT="P" />
+<Charge Id="65" Amount="10.00" CurrCode="EUR" Type="9" PT="P" />
+<Price Price="10.00" CurrCode="EUR" />
+<SrvStatus Status=" " >
+<Date Type="SRV_START" Date="20180423" HH="00" MM="00" SS="00" />
+<Date Type="SRV_END" Date="20180522" HH="23" MM="59" SS="59" />
+<Charge Id="60" Amount="-10.00" CurrCode="EUR" Type="9" PT="P" />
+</SrvStatus>
+</SumItem>
+<SumItem PT="P" ArticleString="470.5.24.1.A.AC.P.P" LZString="" NumItems="1" CollInd="N" NumDays="91" >
+<AggSet>
+<Att Ty="PRO" Id="NLDPN" />
+<Att Ty="TM" Id="FB11S" />
+<Att Ty="SP" Id="SPN01" />
+<Att Ty="SN" Id="TEL" />
+</AggSet>
+<Charge Id="125" Amount="30.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="125" Amount="30.00" CurrCode="EUR" Type="19" PT="P" />
+<Charge Id="65" Amount="10.00" CurrCode="EUR" Type="9" PT="P" />
+<Price Price="10.00" CurrCode="EUR" />
+<SrvStatus Status="a" >
+<Date Type="SRV_START" Date="20180423" HH="00" MM="00" SS="00" />
+<Date Type="SRV_END" Date="20180722" HH="23" MM="59" SS="59" />
+<Charge Id="60" Amount="30.00" CurrCode="EUR" Type="9" PT="P" />
+</SrvStatus>
+</SumItem>
+<SumItem PT="P" ArticleString="470.5.33.390.A.AC.P.A" LZString="" NumItems="1" CollInd="N" NumDays="31" >
+<AggSet>
+<Att Ty="PRO" Id="NLDPN" />
+<Att Ty="TM" Id="FB11S" />
+<Att Ty="SP" Id="SPP01" />
+<Att Ty="SN" Id="BPVS0" />
+</AggSet>
+<Charge Id="125" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="125" Amount="0.00" CurrCode="EUR" Type="19" PT="P" />
+<Charge Id="65" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Price Price="0.00" CurrCode="EUR" />
+<SrvStatus Status="a" >
+<Date Type="SRV_START" Date="20180723" HH="00" MM="00" SS="00" />
+<Date Type="SRV_END" Date="20180822" HH="23" MM="59" SS="59" />
+<Charge Id="60" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+</SrvStatus>
+</SumItem>
+<SumItem PT="P" ArticleString="470.5.33.390.A.AC.P.C" LZString="" NumItems="1" CollInd="N" NumDays="30" >
+<AggSet>
+<Att Ty="PRO" Id="NLDPN" />
+<Att Ty="TM" Id="FB11S" />
+<Att Ty="SP" Id="SPP01" />
+<Att Ty="SN" Id="BPVS0" />
+</AggSet>
+<Charge Id="125" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="125" Amount="0.00" CurrCode="EUR" Type="19" PT="P" />
+<Charge Id="65" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Price Price="0.00" CurrCode="EUR" />
+<SrvStatus Status=" " >
+<Date Type="SRV_START" Date="20180423" HH="00" MM="00" SS="00" />
+<Date Type="SRV_END" Date="20180522" HH="23" MM="59" SS="59" />
+<Charge Id="60" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+</SrvStatus>
+</SumItem>
+<SumItem PT="P" ArticleString="470.5.33.390.A.AC.P.P" LZString="" NumItems="1" CollInd="N" NumDays="91" >
+<AggSet>
+<Att Ty="PRO" Id="NLDPN" />
+<Att Ty="TM" Id="FB11S" />
+<Att Ty="SP" Id="SPP01" />
+<Att Ty="SN" Id="BPVS0" />
+</AggSet>
+<Charge Id="125" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="125" Amount="0.00" CurrCode="EUR" Type="19" PT="P" />
+<Charge Id="65" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Price Price="0.00" CurrCode="EUR" />
+<SrvStatus Status="a" >
+<Date Type="SRV_START" Date="20180423" HH="00" MM="00" SS="00" />
+<Date Type="SRV_END" Date="20180722" HH="23" MM="59" SS="59" />
+<Charge Id="60" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+</SrvStatus>
+</SumItem>
+<SumItem PT="P" ArticleString="470.5.98.2986.A.AC.P.A" LZString="" NumItems="1" CollInd="N" NumDays="31" >
+<AggSet>
+<Att Ty="PRO" Id="NLDPN" />
+<Att Ty="TM" Id="FB11S" />
+<Att Ty="SP" Id="K0001" />
+<Att Ty="SN" Id="GKD08" />
+</AggSet>
+<Charge Id="125" Amount="-2.07" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="125" Amount="-2.07" CurrCode="EUR" Type="19" PT="P" />
+<Charge Id="65" Amount="-2.07" CurrCode="EUR" Type="9" PT="P" />
+<Price Price="-2.07" CurrCode="EUR" />
+<SrvStatus Status="a" >
+<Date Type="SRV_START" Date="20180723" HH="00" MM="00" SS="00" />
+<Date Type="SRV_END" Date="20180822" HH="23" MM="59" SS="59" />
+<Charge Id="60" Amount="-2.07" CurrCode="EUR" Type="9" PT="P" />
+</SrvStatus>
+<SrvParams FlexParamDesc="Billing Display Field:" ParamDesc="" ParamVal="" >
+<Date Type="SRV_START" Date="20170523" HH="00" MM="00" SS="00" />
+</SrvParams>
+</SumItem>
+<SumItem PT="P" ArticleString="470.5.98.2986.A.AC.P.C" LZString="" NumItems="1" CollInd="N" NumDays="30" >
+<AggSet>
+<Att Ty="PRO" Id="NLDPN" />
+<Att Ty="TM" Id="FB11S" />
+<Att Ty="SP" Id="K0001" />
+<Att Ty="SN" Id="GKD08" />
+</AggSet>
+<Charge Id="125" Amount="2.07" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="125" Amount="2.07" CurrCode="EUR" Type="19" PT="P" />
+<Charge Id="65" Amount="-2.07" CurrCode="EUR" Type="9" PT="P" />
+<Price Price="-2.07" CurrCode="EUR" />
+<SrvStatus Status=" " >
+<Date Type="SRV_START" Date="20180423" HH="00" MM="00" SS="00" />
+<Date Type="SRV_END" Date="20180522" HH="23" MM="59" SS="59" />
+<Charge Id="60" Amount="2.07" CurrCode="EUR" Type="9" PT="P" />
+</SrvStatus>
+<SrvParams FlexParamDesc="Billing Display Field:" ParamDesc="" ParamVal="" >
+<Date Type="SRV_START" Date="20170523" HH="00" MM="00" SS="00" />
+</SrvParams>
+</SumItem>
+<SumItem PT="P" ArticleString="470.5.98.2986.A.AC.P.P" LZString="" NumItems="1" CollInd="N" NumDays="91" >
+<AggSet>
+<Att Ty="PRO" Id="NLDPN" />
+<Att Ty="TM" Id="FB11S" />
+<Att Ty="SP" Id="K0001" />
+<Att Ty="SN" Id="GKD08" />
+</AggSet>
+<Charge Id="125" Amount="-6.21" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="125" Amount="-6.21" CurrCode="EUR" Type="19" PT="P" />
+<Charge Id="65" Amount="-2.07" CurrCode="EUR" Type="9" PT="P" />
+<Price Price="-2.07" CurrCode="EUR" />
+<SrvStatus Status="a" >
+<Date Type="SRV_START" Date="20180423" HH="00" MM="00" SS="00" />
+<Date Type="SRV_END" Date="20180722" HH="23" MM="59" SS="59" />
+<Charge Id="60" Amount="-6.21" CurrCode="EUR" Type="9" PT="P" />
+</SrvStatus>
+<SrvParams FlexParamDesc="Billing Display Field:" ParamDesc="" ParamVal="" >
+<Date Type="SRV_START" Date="20170523" HH="00" MM="00" SS="00" />
+</SrvParams>
+</SumItem>
+</PerCTInfo>
+</Contract>
+</CustRef>
+<FUAccInfoPerCo CoId="CONTR0009622069">
+<FUAccInfo>
+<FUAcc Id="73077374" HistId="0" FUP="FPFP1" FUE="1" FUEV= "1" UM="Sec" Future="Y" PRO="NLDPN" />
+<Date Type="START" Date="20180723" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20180823" HH="00" MM="00" SS="00" />
+<FUActInt>
+<Date Type="START" Date="20180723" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20180822" HH="00" MM="00" SS="00" />
+</FUActInt>
+<FUNum Orig="2678400" Granted="2678400" CurrUsed="0" TotalUsed="0" CarryOver="0"/>
+<Charge Id="54" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="55" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+</FUAccInfo>
+<FUAccInfo>
+<FUAcc Id="73077374" HistId="30" FUP="FPFP1" FUE="1" FUEV= "1" UM="Sec" Future="N" PRO="NLDPN" />
+<Date Type="START" Date="20180623" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20180723" HH="00" MM="00" SS="00" />
+<FUActInt>
+<Date Type="START" Date="20180623" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20180722" HH="00" MM="00" SS="00" />
+</FUActInt>
+<FUNum Orig="2678400" Granted="2678400" CurrUsed="0" TotalUsed="0" CarryOver="0"/>
+<Charge Id="54" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="55" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+</FUAccInfo>
+<FUAccInfo>
+<FUAcc Id="73077374" HistId="29" FUP="FPFP1" FUE="1" FUEV= "1" UM="Sec" Future="N" PRO="NLDPN" />
+<Date Type="START" Date="20180523" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20180623" HH="00" MM="00" SS="00" />
+<FUActInt>
+<Date Type="START" Date="20180523" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20180622" HH="00" MM="00" SS="00" />
+</FUActInt>
+<FUNum Orig="2678400" Granted="2678400" CurrUsed="0" TotalUsed="0" CarryOver="0"/>
+<Charge Id="54" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="55" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+</FUAccInfo>
+<FUAccInfo>
+<FUAcc Id="73077374" HistId="28" FUP="FPFP1" FUE="1" FUEV= "1" UM="Sec" Future="N" PRO="NLDPN" />
+<Date Type="START" Date="20180423" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20180523" HH="00" MM="00" SS="00" />
+<FUActInt>
+<Date Type="START" Date="20180423" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20180522" HH="00" MM="00" SS="00" />
+</FUActInt>
+<FUNum Orig="2678400" Granted="2678400" CurrUsed="0" TotalUsed="0" CarryOver="0"/>
+<Charge Id="54" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="55" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+</FUAccInfo>
+<FUAccInfo>
+<FUAcc Id="73077374" HistId="27" FUP="FPFP1" FUE="1" FUEV= "1" UM="Sec" Future="N" PRO="NLDPN" />
+<Date Type="START" Date="20180323" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20180423" HH="00" MM="00" SS="00" />
+<FUActInt>
+<Date Type="START" Date="20180323" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20180422" HH="00" MM="00" SS="00" />
+</FUActInt>
+<FUNum Orig="2678400" Granted="2678400" CurrUsed="0" TotalUsed="0" CarryOver="0"/>
+<Charge Id="54" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="55" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+</FUAccInfo>
+<FUAccInfo>
+<FUAcc Id="73077374" HistId="26" FUP="FPFP1" FUE="1" FUEV= "1" UM="Sec" Future="N" PRO="NLDPN" />
+<Date Type="START" Date="20180223" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20180323" HH="00" MM="00" SS="00" />
+<FUActInt>
+<Date Type="START" Date="20180223" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20180322" HH="00" MM="00" SS="00" />
+</FUActInt>
+<FUNum Orig="2678400" Granted="2678400" CurrUsed="0" TotalUsed="0" CarryOver="0"/>
+<Charge Id="54" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="55" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+</FUAccInfo>
+<FUAccInfo>
+<FUAcc Id="73077374" HistId="25" FUP="FPFP1" FUE="1" FUEV= "1" UM="Sec" Future="N" PRO="NLDPN" />
+<Date Type="START" Date="20180123" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20180223" HH="00" MM="00" SS="00" />
+<FUActInt>
+<Date Type="START" Date="20180123" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20180222" HH="00" MM="00" SS="00" />
+</FUActInt>
+<FUNum Orig="2678400" Granted="2678400" CurrUsed="0" TotalUsed="0" CarryOver="0"/>
+<Charge Id="54" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="55" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+</FUAccInfo>
+<FUAccInfo>
+<FUAcc Id="80926210" HistId="0" FUP="EU11R" FUE="1" FUEV= "1" UM="Money" Future="Y" PRO="NLDPN" />
+<Date Type="START" Date="20180723" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20180823" HH="00" MM="00" SS="00" />
+<Date Type="END_FU_CO" Date="20190822" HH="23" MM="59" SS="59" />
+<FUActInt>
+<Date Type="START" Date="20180723" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20180822" HH="00" MM="00" SS="00" />
+</FUActInt>
+<Charge Id="54" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="55" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="56" Amount="20.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="57" Amount="20.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="58" Amount="20.00" CurrCode="EUR" Type="9" PT="P" />
+</FUAccInfo>
+<FUAccInfo>
+<FUAcc Id="80926210" HistId="25" FUP="EU11R" FUE="1" FUEV= "1" UM="Money" Future="N" PRO="NLDPN" />
+<Date Type="START" Date="20180623" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20180723" HH="00" MM="00" SS="00" />
+<Date Type="END_FU_CO" Date="20190722" HH="23" MM="59" SS="59" />
+<FUActInt>
+<Date Type="START" Date="20180623" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20180722" HH="00" MM="00" SS="00" />
+</FUActInt>
+<Charge Id="54" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="55" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="56" Amount="20.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="57" Amount="20.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="58" Amount="20.00" CurrCode="EUR" Type="9" PT="P" />
+</FUAccInfo>
+<FUAccInfo>
+<FUAcc Id="80926210" HistId="24" FUP="EU11R" FUE="1" FUEV= "1" UM="Money" Future="N" PRO="NLDPN" />
+<Date Type="START" Date="20180523" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20180623" HH="00" MM="00" SS="00" />
+<Date Type="END_FU_CO" Date="20190622" HH="23" MM="59" SS="59" />
+<FUActInt>
+<Date Type="START" Date="20180523" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20180622" HH="00" MM="00" SS="00" />
+</FUActInt>
+<Charge Id="54" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="55" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="56" Amount="20.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="57" Amount="20.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="58" Amount="20.00" CurrCode="EUR" Type="9" PT="P" />
+</FUAccInfo>
+<FUAccInfo>
+<FUAcc Id="80926210" HistId="23" FUP="EU11R" FUE="1" FUEV= "1" UM="Money" Future="N" PRO="NLDPN" />
+<Date Type="START" Date="20180423" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20180523" HH="00" MM="00" SS="00" />
+<Date Type="END_FU_CO" Date="20190522" HH="23" MM="59" SS="59" />
+<FUActInt>
+<Date Type="START" Date="20180423" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20180522" HH="00" MM="00" SS="00" />
+</FUActInt>
+<Charge Id="54" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="55" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="56" Amount="20.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="57" Amount="20.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="58" Amount="20.00" CurrCode="EUR" Type="9" PT="P" />
+</FUAccInfo>
+<FUAccInfo>
+<FUAcc Id="80926210" HistId="22" FUP="EU11R" FUE="1" FUEV= "1" UM="Money" Future="N" PRO="NLDPN" />
+<Date Type="START" Date="20180323" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20180423" HH="00" MM="00" SS="00" />
+<Date Type="END_FU_CO" Date="20190422" HH="23" MM="59" SS="59" />
+<FUActInt>
+<Date Type="START" Date="20180323" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20180422" HH="00" MM="00" SS="00" />
+</FUActInt>
+<Charge Id="54" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="55" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="56" Amount="20.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="57" Amount="20.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="58" Amount="20.00" CurrCode="EUR" Type="9" PT="P" />
+</FUAccInfo>
+<FUAccInfo>
+<FUAcc Id="80926210" HistId="21" FUP="EU11R" FUE="1" FUEV= "1" UM="Money" Future="N" PRO="NLDPN" />
+<Date Type="START" Date="20180223" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20180323" HH="00" MM="00" SS="00" />
+<Date Type="END_FU_CO" Date="20190322" HH="23" MM="59" SS="59" />
+<FUActInt>
+<Date Type="START" Date="20180223" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20180322" HH="00" MM="00" SS="00" />
+</FUActInt>
+<Charge Id="54" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="55" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="56" Amount="20.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="57" Amount="20.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="58" Amount="20.00" CurrCode="EUR" Type="9" PT="P" />
+</FUAccInfo>
+<FUAccInfo>
+<FUAcc Id="80926210" HistId="20" FUP="EU11R" FUE="1" FUEV= "1" UM="Money" Future="N" PRO="NLDPN" />
+<Date Type="START" Date="20180123" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20180223" HH="00" MM="00" SS="00" />
+<Date Type="END_FU_CO" Date="20190222" HH="23" MM="59" SS="59" />
+<FUActInt>
+<Date Type="START" Date="20180123" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20180222" HH="00" MM="00" SS="00" />
+</FUActInt>
+<Charge Id="54" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="55" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="56" Amount="20.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="57" Amount="20.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="58" Amount="20.00" CurrCode="EUR" Type="9" PT="P" />
+</FUAccInfo>
+<FUAccInfo>
+<FUAcc Id="80926210" HistId="19" FUP="EU11R" FUE="1" FUEV= "1" UM="Money" Future="N" PRO="NLDPN" />
+<Date Type="START" Date="20171223" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20180123" HH="00" MM="00" SS="00" />
+<Date Type="END_FU_CO" Date="20190122" HH="23" MM="59" SS="59" />
+<FUActInt>
+<Date Type="START" Date="20171223" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20180122" HH="00" MM="00" SS="00" />
+</FUActInt>
+<Charge Id="54" Amount="14.40" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="55" Amount="18.60" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="56" Amount="20.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="57" Amount="20.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="58" Amount="1.40" CurrCode="EUR" Type="9" PT="P" />
+</FUAccInfo>
+</FUAccInfoPerCo>
+<FUAccInfoPerCo CoId="CONTR0015901627">
+<FUAccInfo>
+<FUAcc Id="54597998" HistId="41" FUP="EU11R" FUE="1" FUEV= "1" UM="Money" Future="N" PRO="NLDPN" />
+<Date Type="START" Date="20180523" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20180623" HH="00" MM="00" SS="00" />
+<Date Type="END_FU_CO" Date="20190622" HH="23" MM="59" SS="59" />
+<FUActInt>
+<Date Type="START" Date="20180523" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20180622" HH="00" MM="00" SS="00" />
+</FUActInt>
+<Charge Id="54" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="55" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="56" Amount="20.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="57" Amount="20.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="58" Amount="20.00" CurrCode="EUR" Type="9" PT="P" />
+</FUAccInfo>
+<FUAccInfo>
+<FUAcc Id="54597998" HistId="42" FUP="EU11R" FUE="1" FUEV= "1" UM="Money" Future="N" PRO="NLDPN" />
+<Date Type="START" Date="20180623" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20180723" HH="00" MM="00" SS="00" />
+<Date Type="END_FU_CO" Date="20190722" HH="23" MM="59" SS="59" />
+<FUActInt>
+<Date Type="START" Date="20180623" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20180722" HH="00" MM="00" SS="00" />
+</FUActInt>
+<Charge Id="54" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="55" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="56" Amount="20.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="57" Amount="20.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="58" Amount="20.00" CurrCode="EUR" Type="9" PT="P" />
+</FUAccInfo>
+<FUAccInfo>
+<FUAcc Id="54597998" HistId="0" FUP="EU11R" FUE="1" FUEV= "1" UM="Money" Future="Y" PRO="NLDPN" />
+<Date Type="START" Date="20180723" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20180823" HH="00" MM="00" SS="00" />
+<Date Type="END_FU_CO" Date="20190822" HH="23" MM="59" SS="59" />
+<FUActInt>
+<Date Type="START" Date="20180723" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20180822" HH="00" MM="00" SS="00" />
+</FUActInt>
+<Charge Id="54" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="55" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="56" Amount="20.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="57" Amount="20.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="58" Amount="20.00" CurrCode="EUR" Type="9" PT="P" />
+</FUAccInfo>
+<FUAccInfo>
+<FUAcc Id="73077375" HistId="25" FUP="FPFP1" FUE="1" FUEV= "1" UM="Sec" Future="N" PRO="NLDPN" />
+<Date Type="START" Date="20180123" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20180223" HH="00" MM="00" SS="00" />
+<FUActInt>
+<Date Type="START" Date="20180123" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20180222" HH="00" MM="00" SS="00" />
+</FUActInt>
+<FUNum Orig="2678400" Granted="2678400" CurrUsed="0" TotalUsed="0" CarryOver="0"/>
+<Charge Id="54" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="55" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+</FUAccInfo>
+<FUAccInfo>
+<FUAcc Id="73077375" HistId="26" FUP="FPFP1" FUE="1" FUEV= "1" UM="Sec" Future="N" PRO="NLDPN" />
+<Date Type="START" Date="20180223" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20180323" HH="00" MM="00" SS="00" />
+<FUActInt>
+<Date Type="START" Date="20180223" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20180322" HH="00" MM="00" SS="00" />
+</FUActInt>
+<FUNum Orig="2678400" Granted="2678400" CurrUsed="0" TotalUsed="360" CarryOver="0"/>
+<Charge Id="54" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="55" Amount="0.64" CurrCode="EUR" Type="9" PT="P" />
+</FUAccInfo>
+<FUAccInfo>
+<FUAcc Id="73077375" HistId="27" FUP="FPFP1" FUE="1" FUEV= "1" UM="Sec" Future="N" PRO="NLDPN" />
+<Date Type="START" Date="20180323" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20180423" HH="00" MM="00" SS="00" />
+<FUActInt>
+<Date Type="START" Date="20180323" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20180422" HH="00" MM="00" SS="00" />
+</FUActInt>
+<FUNum Orig="2678400" Granted="2678400" CurrUsed="0" TotalUsed="0" CarryOver="0"/>
+<Charge Id="54" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="55" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+</FUAccInfo>
+<FUAccInfo>
+<FUAcc Id="73077375" HistId="28" FUP="FPFP1" FUE="1" FUEV= "1" UM="Sec" Future="N" PRO="NLDPN" />
+<Date Type="START" Date="20180423" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20180523" HH="00" MM="00" SS="00" />
+<FUActInt>
+<Date Type="START" Date="20180423" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20180522" HH="00" MM="00" SS="00" />
+</FUActInt>
+<FUNum Orig="2678400" Granted="2678400" CurrUsed="0" TotalUsed="0" CarryOver="0"/>
+<Charge Id="54" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="55" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+</FUAccInfo>
+<FUAccInfo>
+<FUAcc Id="73077375" HistId="29" FUP="FPFP1" FUE="1" FUEV= "1" UM="Sec" Future="N" PRO="NLDPN" />
+<Date Type="START" Date="20180523" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20180623" HH="00" MM="00" SS="00" />
+<FUActInt>
+<Date Type="START" Date="20180523" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20180622" HH="00" MM="00" SS="00" />
+</FUActInt>
+<FUNum Orig="2678400" Granted="2678400" CurrUsed="0" TotalUsed="0" CarryOver="0"/>
+<Charge Id="54" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="55" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+</FUAccInfo>
+<FUAccInfo>
+<FUAcc Id="73077375" HistId="30" FUP="FPFP1" FUE="1" FUEV= "1" UM="Sec" Future="N" PRO="NLDPN" />
+<Date Type="START" Date="20180623" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20180723" HH="00" MM="00" SS="00" />
+<FUActInt>
+<Date Type="START" Date="20180623" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20180722" HH="00" MM="00" SS="00" />
+</FUActInt>
+<FUNum Orig="2678400" Granted="2678400" CurrUsed="0" TotalUsed="0" CarryOver="0"/>
+<Charge Id="54" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="55" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+</FUAccInfo>
+<FUAccInfo>
+<FUAcc Id="73077375" HistId="0" FUP="FPFP1" FUE="1" FUEV= "1" UM="Sec" Future="Y" PRO="NLDPN" />
+<Date Type="START" Date="20180723" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20180823" HH="00" MM="00" SS="00" />
+<FUActInt>
+<Date Type="START" Date="20180723" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20180822" HH="00" MM="00" SS="00" />
+</FUActInt>
+<FUNum Orig="2678400" Granted="2678400" CurrUsed="0" TotalUsed="0" CarryOver="0"/>
+<Charge Id="54" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="55" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+</FUAccInfo>
+<FUAccInfo>
+<FUAcc Id="54597998" HistId="40" FUP="EU11R" FUE="1" FUEV= "1" UM="Money" Future="N" PRO="NLDPN" />
+<Date Type="START" Date="20180423" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20180523" HH="00" MM="00" SS="00" />
+<Date Type="END_FU_CO" Date="20190522" HH="23" MM="59" SS="59" />
+<FUActInt>
+<Date Type="START" Date="20180423" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20180522" HH="00" MM="00" SS="00" />
+</FUActInt>
+<Charge Id="54" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="55" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="56" Amount="20.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="57" Amount="20.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="58" Amount="20.00" CurrCode="EUR" Type="9" PT="P" />
+</FUAccInfo>
+<FUAccInfo>
+<FUAcc Id="54597998" HistId="39" FUP="EU11R" FUE="1" FUEV= "1" UM="Money" Future="N" PRO="NLDPN" />
+<Date Type="START" Date="20180323" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20180423" HH="00" MM="00" SS="00" />
+<Date Type="END_FU_CO" Date="20190422" HH="23" MM="59" SS="59" />
+<FUActInt>
+<Date Type="START" Date="20180323" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20180422" HH="00" MM="00" SS="00" />
+</FUActInt>
+<Charge Id="54" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="55" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="56" Amount="20.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="57" Amount="20.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="58" Amount="20.00" CurrCode="EUR" Type="9" PT="P" />
+</FUAccInfo>
+<FUAccInfo>
+<FUAcc Id="54597998" HistId="38" FUP="EU11R" FUE="1" FUEV= "1" UM="Money" Future="N" PRO="NLDPN" />
+<Date Type="START" Date="20180223" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20180323" HH="00" MM="00" SS="00" />
+<Date Type="END_FU_CO" Date="20190322" HH="23" MM="59" SS="59" />
+<FUActInt>
+<Date Type="START" Date="20180223" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20180322" HH="00" MM="00" SS="00" />
+</FUActInt>
+<Charge Id="54" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="55" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="56" Amount="20.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="57" Amount="20.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="58" Amount="20.00" CurrCode="EUR" Type="9" PT="P" />
+</FUAccInfo>
+<FUAccInfo>
+<FUAcc Id="54597998" HistId="37" FUP="EU11R" FUE="1" FUEV= "1" UM="Money" Future="N" PRO="NLDPN" />
+<Date Type="START" Date="20180123" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20180223" HH="00" MM="00" SS="00" />
+<Date Type="END_FU_CO" Date="20190222" HH="23" MM="59" SS="59" />
+<FUActInt>
+<Date Type="START" Date="20180123" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20180222" HH="00" MM="00" SS="00" />
+</FUActInt>
+<Charge Id="54" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="55" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="56" Amount="20.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="57" Amount="20.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="58" Amount="20.00" CurrCode="EUR" Type="9" PT="P" />
+</FUAccInfo>
+<FUAccInfo>
+<FUAcc Id="54597998" HistId="36" FUP="EU11R" FUE="1" FUEV= "1" UM="Money" Future="N" PRO="NLDPN" />
+<Date Type="START" Date="20171223" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20180123" HH="00" MM="00" SS="00" />
+<Date Type="END_FU_CO" Date="20190122" HH="23" MM="59" SS="59" />
+<FUActInt>
+<Date Type="START" Date="20171223" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20180122" HH="00" MM="00" SS="00" />
+</FUActInt>
+<Charge Id="54" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="55" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="56" Amount="20.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="57" Amount="20.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="58" Amount="20.00" CurrCode="EUR" Type="9" PT="P" />
+</FUAccInfo>
+<FUAccInfo>
+<FUAcc Id="54597998" HistId="35" FUP="EU11R" FUE="1" FUEV= "1" UM="Money" Future="N" PRO="NLDPN" />
+<Date Type="START" Date="20171123" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20171223" HH="00" MM="00" SS="00" />
+<Date Type="END_FU_CO" Date="20181222" HH="23" MM="59" SS="59" />
+<FUActInt>
+<Date Type="START" Date="20171123" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20171222" HH="00" MM="00" SS="00" />
+</FUActInt>
+<Charge Id="54" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="55" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="56" Amount="20.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="57" Amount="20.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="58" Amount="20.00" CurrCode="EUR" Type="9" PT="P" />
+</FUAccInfo>
+<FUAccInfo>
+<FUAcc Id="54597998" HistId="34" FUP="EU11R" FUE="1" FUEV= "1" UM="Money" Future="N" PRO="NLDPN" />
+<Date Type="START" Date="20171023" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20171123" HH="00" MM="00" SS="00" />
+<Date Type="END_FU_CO" Date="20181122" HH="23" MM="59" SS="59" />
+<FUActInt>
+<Date Type="START" Date="20171023" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20171122" HH="00" MM="00" SS="00" />
+</FUActInt>
+<Charge Id="54" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="55" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="56" Amount="20.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="57" Amount="20.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="58" Amount="20.00" CurrCode="EUR" Type="9" PT="P" />
+</FUAccInfo>
+<FUAccInfo>
+<FUAcc Id="54597998" HistId="33" FUP="EU11R" FUE="1" FUEV= "1" UM="Money" Future="N" PRO="NLDPN" />
+<Date Type="START" Date="20170923" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20171023" HH="00" MM="00" SS="00" />
+<Date Type="END_FU_CO" Date="20181022" HH="23" MM="59" SS="59" />
+<FUActInt>
+<Date Type="START" Date="20170923" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20171022" HH="00" MM="00" SS="00" />
+</FUActInt>
+<Charge Id="54" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="55" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="56" Amount="20.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="57" Amount="20.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="58" Amount="20.00" CurrCode="EUR" Type="9" PT="P" />
+</FUAccInfo>
+<FUAccInfo>
+<FUAcc Id="54597998" HistId="32" FUP="EU11R" FUE="1" FUEV= "1" UM="Money" Future="N" PRO="NLDPN" />
+<Date Type="START" Date="20170823" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20170923" HH="00" MM="00" SS="00" />
+<Date Type="END_FU_CO" Date="20180922" HH="23" MM="59" SS="59" />
+<FUActInt>
+<Date Type="START" Date="20170823" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20170922" HH="00" MM="00" SS="00" />
+</FUActInt>
+<Charge Id="54" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="55" Amount="11.33" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="56" Amount="20.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="57" Amount="20.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="58" Amount="8.67" CurrCode="EUR" Type="9" PT="P" />
+</FUAccInfo>
+<FUAccInfo>
+<FUAcc Id="54597998" HistId="25" FUP="EU11R" FUE="1" FUEV= "1" UM="Money" Future="N" PRO="NLDPN" />
+<Date Type="START" Date="20170123" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20170223" HH="00" MM="00" SS="00" />
+<Date Type="END_FU_CO" Date="20180222" HH="23" MM="59" SS="59" />
+<FUActInt>
+<Date Type="START" Date="20170123" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20170222" HH="00" MM="00" SS="00" />
+</FUActInt>
+<Charge Id="54" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="55" Amount="1.89" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="56" Amount="20.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="57" Amount="20.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="58" Amount="18.11" CurrCode="EUR" Type="9" PT="P" />
+</FUAccInfo>
+</FUAccInfoPerCo>
+<FUAccInfoPerCo CoId="CONTR0028150166">
+<FUAccInfo>
+<FUAcc Id="41107658" HistId="52" FUP="EU11S" FUE="1" FUEV= "1" UM="Money" Future="N" PRO="NLDPN" />
+<Date Type="START" Date="20180423" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20180523" HH="00" MM="00" SS="00" />
+<Date Type="END_FU_CO" Date="20190522" HH="23" MM="59" SS="59" />
+<FUActInt>
+<Date Type="START" Date="20180423" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20180522" HH="00" MM="00" SS="00" />
+</FUActInt>
+<Charge Id="54" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="55" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="56" Amount="10.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="57" Amount="10.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="58" Amount="10.00" CurrCode="EUR" Type="9" PT="P" />
+</FUAccInfo>
+<FUAccInfo>
+<FUAcc Id="41107658" HistId="53" FUP="EU11S" FUE="1" FUEV= "1" UM="Money" Future="N" PRO="NLDPN" />
+<Date Type="START" Date="20180523" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20180623" HH="00" MM="00" SS="00" />
+<Date Type="END_FU_CO" Date="20190622" HH="23" MM="59" SS="59" />
+<FUActInt>
+<Date Type="START" Date="20180523" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20180622" HH="00" MM="00" SS="00" />
+</FUActInt>
+<Charge Id="54" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="55" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="56" Amount="10.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="57" Amount="10.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="58" Amount="10.00" CurrCode="EUR" Type="9" PT="P" />
+</FUAccInfo>
+<FUAccInfo>
+<FUAcc Id="41107658" HistId="54" FUP="EU11S" FUE="1" FUEV= "1" UM="Money" Future="N" PRO="NLDPN" />
+<Date Type="START" Date="20180623" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20180723" HH="00" MM="00" SS="00" />
+<Date Type="END_FU_CO" Date="20190722" HH="23" MM="59" SS="59" />
+<FUActInt>
+<Date Type="START" Date="20180623" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20180722" HH="00" MM="00" SS="00" />
+</FUActInt>
+<Charge Id="54" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="55" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="56" Amount="10.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="57" Amount="10.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="58" Amount="10.00" CurrCode="EUR" Type="9" PT="P" />
+</FUAccInfo>
+<FUAccInfo>
+<FUAcc Id="41107658" HistId="0" FUP="EU11S" FUE="1" FUEV= "1" UM="Money" Future="Y" PRO="NLDPN" />
+<Date Type="START" Date="20180723" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20180823" HH="00" MM="00" SS="00" />
+<Date Type="END_FU_CO" Date="20190822" HH="23" MM="59" SS="59" />
+<FUActInt>
+<Date Type="START" Date="20180723" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20180822" HH="00" MM="00" SS="00" />
+</FUActInt>
+<Charge Id="54" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="55" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="56" Amount="10.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="57" Amount="10.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="58" Amount="10.00" CurrCode="EUR" Type="9" PT="P" />
+</FUAccInfo>
+<FUAccInfo>
+<FUAcc Id="98909847" HistId="10" FUP="FPFP1" FUE="1" FUEV= "1" UM="Sec" Future="N" PRO="NLDPN" />
+<Date Type="START" Date="20180123" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20180223" HH="00" MM="00" SS="00" />
+<FUActInt>
+<Date Type="START" Date="20180123" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20180222" HH="00" MM="00" SS="00" />
+</FUActInt>
+<FUNum Orig="2678400" Granted="2678400" CurrUsed="0" TotalUsed="0" CarryOver="0"/>
+<Charge Id="54" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="55" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+</FUAccInfo>
+<FUAccInfo>
+<FUAcc Id="98909847" HistId="11" FUP="FPFP1" FUE="1" FUEV= "1" UM="Sec" Future="N" PRO="NLDPN" />
+<Date Type="START" Date="20180223" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20180323" HH="00" MM="00" SS="00" />
+<FUActInt>
+<Date Type="START" Date="20180223" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20180322" HH="00" MM="00" SS="00" />
+</FUActInt>
+<FUNum Orig="2678400" Granted="2678400" CurrUsed="0" TotalUsed="4140" CarryOver="0"/>
+<Charge Id="54" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="55" Amount="5.67" CurrCode="EUR" Type="9" PT="P" />
+</FUAccInfo>
+<FUAccInfo>
+<FUAcc Id="98909847" HistId="12" FUP="FPFP1" FUE="1" FUEV= "1" UM="Sec" Future="N" PRO="NLDPN" />
+<Date Type="START" Date="20180323" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20180423" HH="00" MM="00" SS="00" />
+<FUActInt>
+<Date Type="START" Date="20180323" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20180422" HH="00" MM="00" SS="00" />
+</FUActInt>
+<FUNum Orig="2678400" Granted="2678400" CurrUsed="0" TotalUsed="540" CarryOver="0"/>
+<Charge Id="54" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="55" Amount="0.85" CurrCode="EUR" Type="9" PT="P" />
+</FUAccInfo>
+<FUAccInfo>
+<FUAcc Id="98909847" HistId="13" FUP="FPFP1" FUE="1" FUEV= "1" UM="Sec" Future="N" PRO="NLDPN" />
+<Date Type="START" Date="20180423" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20180523" HH="00" MM="00" SS="00" />
+<FUActInt>
+<Date Type="START" Date="20180423" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20180522" HH="00" MM="00" SS="00" />
+</FUActInt>
+<FUNum Orig="2678400" Granted="2678400" CurrUsed="0" TotalUsed="0" CarryOver="0"/>
+<Charge Id="54" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="55" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+</FUAccInfo>
+<FUAccInfo>
+<FUAcc Id="98909847" HistId="14" FUP="FPFP1" FUE="1" FUEV= "1" UM="Sec" Future="N" PRO="NLDPN" />
+<Date Type="START" Date="20180523" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20180623" HH="00" MM="00" SS="00" />
+<FUActInt>
+<Date Type="START" Date="20180523" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20180622" HH="00" MM="00" SS="00" />
+</FUActInt>
+<FUNum Orig="2678400" Granted="2678400" CurrUsed="0" TotalUsed="0" CarryOver="0"/>
+<Charge Id="54" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="55" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+</FUAccInfo>
+<FUAccInfo>
+<FUAcc Id="98909847" HistId="15" FUP="FPFP1" FUE="1" FUEV= "1" UM="Sec" Future="N" PRO="NLDPN" />
+<Date Type="START" Date="20180623" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20180723" HH="00" MM="00" SS="00" />
+<FUActInt>
+<Date Type="START" Date="20180623" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20180722" HH="00" MM="00" SS="00" />
+</FUActInt>
+<FUNum Orig="2678400" Granted="2678400" CurrUsed="0" TotalUsed="0" CarryOver="0"/>
+<Charge Id="54" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="55" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+</FUAccInfo>
+<FUAccInfo>
+<FUAcc Id="98909847" HistId="0" FUP="FPFP1" FUE="1" FUEV= "1" UM="Sec" Future="Y" PRO="NLDPN" />
+<Date Type="START" Date="20180723" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20180823" HH="00" MM="00" SS="00" />
+<FUActInt>
+<Date Type="START" Date="20180723" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20180822" HH="00" MM="00" SS="00" />
+</FUActInt>
+<FUNum Orig="2678400" Granted="2678400" CurrUsed="0" TotalUsed="0" CarryOver="0"/>
+<Charge Id="54" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="55" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+</FUAccInfo>
+<FUAccInfo>
+<FUAcc Id="41107658" HistId="51" FUP="EU11S" FUE="1" FUEV= "1" UM="Money" Future="N" PRO="NLDPN" />
+<Date Type="START" Date="20180323" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20180423" HH="00" MM="00" SS="00" />
+<Date Type="END_FU_CO" Date="20190422" HH="23" MM="59" SS="59" />
+<FUActInt>
+<Date Type="START" Date="20180323" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20180422" HH="00" MM="00" SS="00" />
+</FUActInt>
+<Charge Id="54" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="55" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="56" Amount="10.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="57" Amount="10.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="58" Amount="10.00" CurrCode="EUR" Type="9" PT="P" />
+</FUAccInfo>
+<FUAccInfo>
+<FUAcc Id="41107658" HistId="50" FUP="EU11S" FUE="1" FUEV= "1" UM="Money" Future="N" PRO="NLDPN" />
+<Date Type="START" Date="20180223" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20180323" HH="00" MM="00" SS="00" />
+<Date Type="END_FU_CO" Date="20190322" HH="23" MM="59" SS="59" />
+<FUActInt>
+<Date Type="START" Date="20180223" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20180322" HH="00" MM="00" SS="00" />
+</FUActInt>
+<Charge Id="54" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="55" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="56" Amount="10.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="57" Amount="10.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="58" Amount="10.00" CurrCode="EUR" Type="9" PT="P" />
+</FUAccInfo>
+<FUAccInfo>
+<FUAcc Id="41107658" HistId="49" FUP="EU11S" FUE="1" FUEV= "1" UM="Money" Future="N" PRO="NLDPN" />
+<Date Type="START" Date="20180123" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20180223" HH="00" MM="00" SS="00" />
+<Date Type="END_FU_CO" Date="20190222" HH="23" MM="59" SS="59" />
+<FUActInt>
+<Date Type="START" Date="20180123" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20180222" HH="00" MM="00" SS="00" />
+</FUActInt>
+<Charge Id="54" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="55" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="56" Amount="10.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="57" Amount="10.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="58" Amount="10.00" CurrCode="EUR" Type="9" PT="P" />
+</FUAccInfo>
+<FUAccInfo>
+<FUAcc Id="41107658" HistId="48" FUP="EU11S" FUE="1" FUEV= "1" UM="Money" Future="N" PRO="NLDPN" />
+<Date Type="START" Date="20171223" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20180123" HH="00" MM="00" SS="00" />
+<Date Type="END_FU_CO" Date="20190122" HH="23" MM="59" SS="59" />
+<FUActInt>
+<Date Type="START" Date="20171223" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20180122" HH="00" MM="00" SS="00" />
+</FUActInt>
+<Charge Id="54" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="55" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="56" Amount="10.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="57" Amount="10.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="58" Amount="10.00" CurrCode="EUR" Type="9" PT="P" />
+</FUAccInfo>
+<FUAccInfo>
+<FUAcc Id="41107658" HistId="47" FUP="EU11S" FUE="1" FUEV= "1" UM="Money" Future="N" PRO="NLDPN" />
+<Date Type="START" Date="20171123" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20171223" HH="00" MM="00" SS="00" />
+<Date Type="END_FU_CO" Date="20181222" HH="23" MM="59" SS="59" />
+<FUActInt>
+<Date Type="START" Date="20171123" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20171222" HH="00" MM="00" SS="00" />
+</FUActInt>
+<Charge Id="54" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="55" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="56" Amount="10.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="57" Amount="10.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="58" Amount="10.00" CurrCode="EUR" Type="9" PT="P" />
+</FUAccInfo>
+<FUAccInfo>
+<FUAcc Id="41107658" HistId="46" FUP="EU11S" FUE="1" FUEV= "1" UM="Money" Future="N" PRO="NLDPN" />
+<Date Type="START" Date="20171023" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20171123" HH="00" MM="00" SS="00" />
+<Date Type="END_FU_CO" Date="20181122" HH="23" MM="59" SS="59" />
+<FUActInt>
+<Date Type="START" Date="20171023" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20171122" HH="00" MM="00" SS="00" />
+</FUActInt>
+<Charge Id="54" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="55" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="56" Amount="10.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="57" Amount="10.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="58" Amount="10.00" CurrCode="EUR" Type="9" PT="P" />
+</FUAccInfo>
+<FUAccInfo>
+<FUAcc Id="41107658" HistId="45" FUP="EU11S" FUE="1" FUEV= "1" UM="Money" Future="N" PRO="NLDPN" />
+<Date Type="START" Date="20170923" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20171023" HH="00" MM="00" SS="00" />
+<Date Type="END_FU_CO" Date="20181022" HH="23" MM="59" SS="59" />
+<FUActInt>
+<Date Type="START" Date="20170923" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20171022" HH="00" MM="00" SS="00" />
+</FUActInt>
+<Charge Id="54" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="55" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="56" Amount="10.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="57" Amount="10.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="58" Amount="10.00" CurrCode="EUR" Type="9" PT="P" />
+</FUAccInfo>
+<FUAccInfo>
+<FUAcc Id="41107658" HistId="44" FUP="EU11S" FUE="1" FUEV= "1" UM="Money" Future="N" PRO="NLDPN" />
+<Date Type="START" Date="20170823" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20170923" HH="00" MM="00" SS="00" />
+<Date Type="END_FU_CO" Date="20180922" HH="23" MM="59" SS="59" />
+<FUActInt>
+<Date Type="START" Date="20170823" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20170922" HH="00" MM="00" SS="00" />
+</FUActInt>
+<Charge Id="54" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="55" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="56" Amount="10.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="57" Amount="10.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="58" Amount="10.00" CurrCode="EUR" Type="9" PT="P" />
+</FUAccInfo>
+<FUAccInfo>
+<FUAcc Id="41107658" HistId="43" FUP="EU11S" FUE="1" FUEV= "1" UM="Money" Future="N" PRO="NLDPN" />
+<Date Type="START" Date="20170723" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20170823" HH="00" MM="00" SS="00" />
+<Date Type="END_FU_CO" Date="20180822" HH="23" MM="59" SS="59" />
+<FUActInt>
+<Date Type="START" Date="20170723" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20170822" HH="00" MM="00" SS="00" />
+</FUActInt>
+<Charge Id="54" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="55" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="56" Amount="10.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="57" Amount="10.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="58" Amount="10.00" CurrCode="EUR" Type="9" PT="P" />
+</FUAccInfo>
+<FUAccInfo>
+<FUAcc Id="41107658" HistId="42" FUP="EU11S" FUE="1" FUEV= "1" UM="Money" Future="N" PRO="NLDPN" />
+<Date Type="START" Date="20170623" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20170723" HH="00" MM="00" SS="00" />
+<Date Type="END_FU_CO" Date="20180722" HH="23" MM="59" SS="59" />
+<FUActInt>
+<Date Type="START" Date="20170623" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20170722" HH="00" MM="00" SS="00" />
+</FUActInt>
+<Charge Id="54" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="55" Amount="6.40" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="56" Amount="10.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="57" Amount="10.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="58" Amount="3.60" CurrCode="EUR" Type="9" PT="P" />
+</FUAccInfo>
+<FUAccInfo>
+<FUAcc Id="41107658" HistId="37" FUP="EU11S" FUE="1" FUEV= "1" UM="Money" Future="N" PRO="NLDPN" />
+<Date Type="START" Date="20170123" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20170223" HH="00" MM="00" SS="00" />
+<Date Type="END_FU_CO" Date="20180222" HH="23" MM="59" SS="59" />
+<FUActInt>
+<Date Type="START" Date="20170123" HH="00" MM="00" SS="00" />
+<Date Type="END" Date="20170222" HH="00" MM="00" SS="00" />
+</FUActInt>
+<Charge Id="54" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="55" Amount="0.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="56" Amount="10.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="57" Amount="10.00" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="58" Amount="10.00" CurrCode="EUR" Type="9" PT="P" />
+</FUAccInfo>
+</FUAccInfoPerCo>
+<FUDiscountInfoPerCo CoId="CONTR0009622069">
+<FUDiscountInfo FUP="EU11R">
+<Charge Id="56" Amount="14.40" CurrCode="EUR" Type="9" PT="P" />
+<Charge Id="55" Amount="14.40" CurrCode="EUR" Type="9" PT="P" />
+<DiscountValue UM="Msg" OrigVal="90.000000" DiscVal="90.000000" />
+<DiscountValue UM="CLICK" OrigVal="1478642040.000000" DiscVal="1478642040.000000" />
+</FUDiscountInfo>
+</FUDiscountInfoPerCo>
+</Summary>
+</Document>
