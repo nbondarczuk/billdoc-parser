@@ -3,65 +3,59 @@
 
 #include <assert.h>
 
-#include <iostream>
 #include <fstream>
+#include <iostream>
 #include <string>
 
 #include "rapidxml.hpp"
 #include "strutl.hpp"
-#include "xmlutl.hpp"
-#include "xml_item.hpp"
 #include "xml_account.hpp"
 #include "xml_bank.hpp"
+#include "xml_item.hpp"
+#include "xmlutl.hpp"
 
 class XMLFiCont : public XMLItem {
 public:
-	XMLFiCont() : root(0) {}
-	
-	XMLFiCont(const rapidxml::xml_node<>* node) : root(node) {
-		load();
-	}	
+  XMLFiCont() : root(0) {}
 
-	void dump() const {
-		assert(root);				
-		std::cout << "FiCont:" << std::endl;
-		dump_account();
-		dump_bank();
-	}
+  XMLFiCont(const rapidxml::xml_node<> *node) : root(node) { load(); }
 
-	void load() {
-		assert(root);
-		load_account();
-		load_bank();
-	}
+  void dump() const {
+    assert(root);
+    std::cout << "FiCont:" << std::endl;
+    dump_account();
+    dump_bank();
+  }
 
-	XMLAccount* Account;
-	XMLBank* Bank;
-	
+  void load() {
+    assert(root);
+    load_account();
+    load_bank();
+  }
+
+  XMLAccount *Account;
+  XMLBank *Bank;
+
 private:
-	const rapidxml::xml_node<>* root;
+  const rapidxml::xml_node<> *root;
 
-	// optional value
-	void load_account() {
-		Account = find_subnode<XMLAccount>(root, "Account");
-	}
+  // optional value
+  void load_account() { Account = find_subnode<XMLAccount>(root, "Account"); }
 
-	// optional value
-	void load_bank() {
-		Bank = find_subnode<XMLBank>(root, "Bank");
-	}
+  // optional value
+  void load_bank() { Bank = find_subnode<XMLBank>(root, "Bank"); }
 
-	void dump_account() const {
-		if (Account) {
-			Account->dump();
-		}
-	}
+  void dump_account() const {
+    if (Account) {
+      Account->dump();
+    }
+  }
 
-	void dump_bank() const {
-		if (Bank) {
-			Bank->dump();
-		}
-	}
+  void dump_bank() const {
+    if (Bank) {
+      Bank->dump();
+    }
+  }
 };
 
 #endif // __XML_FI_CONT_HPP__

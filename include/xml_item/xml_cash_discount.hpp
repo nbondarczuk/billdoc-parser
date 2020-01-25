@@ -3,65 +3,60 @@
 
 #include <assert.h>
 
-#include <iostream>
 #include <fstream>
-#include <string>
+#include <iostream>
 #include <set>
+#include <string>
 
 #include "rapidxml.hpp"
 #include "strutl.hpp"
-#include "xmlutl.hpp"
-#include "xml_item.hpp"
 #include "xml_charge.hpp"
 #include "xml_date.hpp"
+#include "xml_item.hpp"
+#include "xmlutl.hpp"
 
 class XMLCashDiscount : public XMLItem {
 public:
-	XMLCashDiscount() : root(0) {}
-	
-	XMLCashDiscount(const rapidxml::xml_node<>* node) : root(node) {
-		load();
-	}
+  XMLCashDiscount() : root(0) {}
 
-	void dump() const {
-		assert(root);		
-		std::cout << "CashDiscount: "
-				  << "Days: " << Days
-				  << std::endl;
-		Charge.dump();
-		Date.dump();
-	}
+  XMLCashDiscount(const rapidxml::xml_node<> *node) : root(node) { load(); }
 
-	void load() {
-		assert(root);		
-		load_attributes();
-		load_charges();
-		load_dates();
-	}	
-	
-	const char* Days;
-	XMLCharge Charge;
-	XMLDate Date;
+  void dump() const {
+    assert(root);
+    std::cout << "CashDiscount: "
+              << "Days: " << Days << std::endl;
+    Charge.dump();
+    Date.dump();
+  }
 
-private:	
-	const rapidxml::xml_node<>* root;
+  void load() {
+    assert(root);
+    load_attributes();
+    load_charges();
+    load_dates();
+  }
 
-	// mandatory value
-	void load_attributes() {
-		Days = find_attribute_value("Days", root);
-	}		
+  const char *Days;
+  XMLCharge Charge;
+  XMLDate Date;
 
-	// mandatory value
-	void load_charges() {
-		rapidxml::xml_node<> *node = root->first_node("Charge");
-		Charge = XMLCharge(node);
-	}
+private:
+  const rapidxml::xml_node<> *root;
 
-	// mandatory value
-	void load_dates() {
-		rapidxml::xml_node<> *node = root->first_node("Date");
-		Date = XMLDate(node);
-	}
+  // mandatory value
+  void load_attributes() { Days = find_attribute_value("Days", root); }
+
+  // mandatory value
+  void load_charges() {
+    rapidxml::xml_node<> *node = root->first_node("Charge");
+    Charge = XMLCharge(node);
+  }
+
+  // mandatory value
+  void load_dates() {
+    rapidxml::xml_node<> *node = root->first_node("Date");
+    Date = XMLDate(node);
+  }
 };
 
 #endif // __XML_CASH_DISCOUNT_HPP__

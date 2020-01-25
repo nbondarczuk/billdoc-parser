@@ -3,8 +3,8 @@
 
 #include <assert.h>
 
-#include <iostream>
 #include <fstream>
+#include <iostream>
 #include <string>
 
 #include "rapidxml.hpp"
@@ -16,8 +16,8 @@
 // root node of XML sub-tree
 class XMLItem {
 public:
-	virtual void dump() const = 0;
-	virtual void load() = 0;
+  virtual void dump() const = 0;
+  virtual void load() = 0;
 };
 
 #endif // __XML_ITEM_HPP__

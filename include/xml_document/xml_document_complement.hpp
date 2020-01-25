@@ -1,8 +1,8 @@
 #ifndef __XML_DOCUMENT_COMPLEMENT_HPP__
 #define __XML_DOCUMENT_COMPLEMENT_HPP__
 
-#include <iostream>
 #include <fstream>
+#include <iostream>
 #include <string>
 #include <vector>
 
@@ -11,39 +11,35 @@
 
 class XMLDocumentComplement : public XMLDocument {
 public:
-	XMLDocumentComplement() : root(0) {}
+  XMLDocumentComplement() : root(0) {}
 
-	XMLDocumentComplement(rapidxml::xml_node<>* node) : root(node) {
-		load();
-	}	
+  XMLDocumentComplement(rapidxml::xml_node<> *node) : root(node) { load(); }
 
-	~XMLDocumentComplement() {}
-	
-	virtual std::string id() const {
-		return "Document.Complement";	
-	}
+  ~XMLDocumentComplement() {}
 
-	virtual XMLDocumentComplement* clone() const {
-		XMLDocumentComplement* p = new XMLDocumentComplement(*this);
-		return p;
-	}
+  virtual std::string id() const { return "Document.Complement"; }
 
-	virtual void reload(const rapidxml::xml_node<> *node = 0) {
-		const rapidxml::xml_node<>* document_root = get_document_root();
-		root = document_root->first_node("Complement");
-		load();
-	}
+  virtual XMLDocumentComplement *clone() const {
+    XMLDocumentComplement *p = new XMLDocumentComplement(*this);
+    return p;
+  }
 
-	virtual void load() {
-		//assert(root);		
-	}
+  virtual void reload(const rapidxml::xml_node<> *node = 0) {
+    const rapidxml::xml_node<> *document_root = get_document_root();
+    root = document_root->first_node("Complement");
+    load();
+  }
 
-	virtual void dump() const {
-		//assert(root);		
-	}
+  virtual void load() {
+    // assert(root);
+  }
+
+  virtual void dump() const {
+    // assert(root);
+  }
 
 private:
-	rapidxml::xml_node<> *root;	
+  rapidxml::xml_node<> *root;
 };
 
-#endif // __XML_DOCUMENT_COMPLEMENT_HPP__	
+#endif // __XML_DOCUMENT_COMPLEMENT_HPP__

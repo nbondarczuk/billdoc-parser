@@ -18,6 +18,12 @@ $(TARGETPARSER):
 
 all: $(TARGETPARSER) $(TARGETTXTGEN)
 
+clang-format:
+	# LLVM, Google, Chromium, Mozilla, WebKit
+	clang-format -assume-filename=config/.clang-format-config\
+	-style="{BasedOnStyle: Google, IndentWidth: 2}" -i \
+	*.cpp ./include/*.hpp ./include/*/*.hpp
+
 clean:
 	rm -f $(TARGETPARSER) $(TARGETTXTGEN) *~ ./include/*~ ./include/*/*~ core.*
 

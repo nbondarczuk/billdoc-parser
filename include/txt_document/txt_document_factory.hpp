@@ -8,15 +8,15 @@
 
 class TXTDocumentFactory {
 public:
-	TXTDocumentFactory() {}
+  TXTDocumentFactory() {}
 
-	~TXTDocumentFactory() {}
+  ~TXTDocumentFactory() {}
 
-	void dump() const {}
-		
-	BillDocument* make(std::map<std::string, BillDocument*>& bd) {
-		return new TXTDocumentInvoice(bd);
-	}	
+  void dump() const {}
+
+  BillDocument *make(std::map<std::string, BillDocument *> &bd) {
+    return new TXTDocumentInvoice(bd);
+  }
 };
 
 #endif // __TXT_DOCUMENT_FACTORY_HPP__
