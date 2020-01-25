@@ -7,6 +7,8 @@
 #include <vector>
 
 #include "rapidxml.hpp"
+#include "xml_charge.hpp"
+#include "xml_date.hpp"
 #include "xml_document.hpp"
 
 class XMLDocumentBalancePage : public XMLDocument {

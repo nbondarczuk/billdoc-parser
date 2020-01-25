@@ -3,11 +3,14 @@
 #include <map>
 #include <memory>
 
+#include "trace.hpp"
 #include "txt_document_factory.hpp"
 #include "txt_document_file.hpp"
 #include "xml_document_factory.hpp"
 
 int main(int argn, char **argv) {
+  FRAME;
+
   // parse all xml files and batch them in a map prepared for txt generation
   XMLDocumentFactory xml_factory;
   std::map<std::string, BillDocument *> docs;
@@ -15,6 +18,7 @@ int main(int argn, char **argv) {
     char *fn = argv[i];
     BillDocument *xml = xml_factory.make(fn);
     docs.insert(std::pair<std::string, BillDocument *>(xml->id(), xml));
+    TRACE(sprintf("Loaded file: %s", fn));
   }
 
   // produce single txt document file using all batched xml files

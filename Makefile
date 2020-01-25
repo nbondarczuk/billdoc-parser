@@ -24,6 +24,9 @@ clang-format:
 	-style="{BasedOnStyle: Google, IndentWidth: 2}" -i \
 	*.cpp ./include/*.hpp ./include/*/*.hpp
 
+run-test: $(TARGETTXTGEN)
+	billdoctxtgen test/2877963/*.xml
+
 clean:
 	rm -f $(TARGETPARSER) $(TARGETTXTGEN) *~ ./include/*~ ./include/*/*~ core.*
 
