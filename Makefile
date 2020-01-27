@@ -24,8 +24,9 @@ clang-format:
 	-style="{BasedOnStyle: Google, IndentWidth: 2}" -i \
 	*.cpp ./include/*.hpp ./include/*/*.hpp
 
-run-test: $(TARGETTXTGEN)
-	billdoctxtgen test/2877963/*.xml
+integration-test: $(TARGETTXTGEN)
+	./billdoctxtgen test/2877963/*.xml | grep -v FILEHDR > ./test/2877963/2877963.txt.1
+	diff ./test/2877963/2877963.txt.0 ./test/2877963/2877963.txt.1
 
 clean:
 	rm -f $(TARGETPARSER) $(TARGETTXTGEN) *~ ./include/*~ ./include/*/*~ core.*
